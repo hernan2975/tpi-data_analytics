@@ -1,0 +1,1190 @@
+mes,categoria,producto,precio,cantidad,ingresos,rendimiento
+2024-02,DecoraciÃÂ³n,Cuadro decorativo,6994.0,5.0,34970.0,Bajo
+2024-02,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,10510.0,5.0,52550.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Secadora,9796.0,3.0,29388.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Heladera,11435.0,8.0,91480.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Secadora,10621.0,4.0,42484.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3535.0,9.0,31815.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Plancha de vapor,6543.0,2.0,13086.0,Bajo
+2024-02,ElectrÃÂ³nica,Proyector,8817.0,9.0,79353.0,Alto
+2024-03,DecoraciÃÂ³n,RincÃÂ³n de plantas,7986.0,11.0,87846.0,Alto
+2024-03,DecoraciÃÂ³n,Candelabro,6611.0,8.0,52888.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Aspiradora,9590.0,5.0,47950.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,11118.0,1.0,11118.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Aspiradora,7091.0,2.0,14182.0,Bajo
+2024-03,ElectrÃÂ³nica,Proyector,4362.0,11.0,47982.0,Bajo
+2024-03,ElectrÃÂ³nica,Tablet,6797.0,9.0,61173.0,Bajo
+2024-03,ElectrÃÂ³nica,Tablet,7409.0,5.0,37045.0,Bajo
+2024-04,DecoraciÃÂ³n,Cortinas,6210.0,4.0,24840.0,Bajo
+2024-04,DecoraciÃÂ³n,Adorno de pared,7199.0,9.0,64791.0,Bajo
+2024-04,DecoraciÃÂ³n,JarrÃÂ³n decorativo,9697.0,7.0,67879.0,Bajo
+2024-04,DecoraciÃÂ³n,Cuadro decorativo,10192.0,9.0,91728.0,Alto
+2024-04,DecoraciÃÂ³n,Candelabro,9070.0,12.0,108840.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Lavadora,2841.0,10.0,28410.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,12225.0,11.0,134475.0,Alto
+2024-04,ElectrÃÂ³nica,Proyector,3215.0,1.0,3215.0,Bajo
+2024-05,DecoraciÃÂ³n,Cortinas,8682.0,8.0,69456.0,Bajo
+2024-05,DecoraciÃÂ³n,Cortinas,10666.0,11.0,117326.0,Alto
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,5722.0,9.0,51498.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Heladera,10949.0,11.0,120439.0,Alto
+2024-05,ElectrÃÂ³nica,Auriculares,8480.0,10.0,84800.0,Alto
+2024-05,ElectrÃÂ³nica,CÃÂ¡mara digital,10778.0,3.0,32334.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Lavadora,3899.0,6.0,23394.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Cafetera,6140.0,9.0,55260.0,Bajo
+2024-06,ElectrÃÂ³nica,Consola de videojuegos,10257.0,9.0,92313.0,Alto
+2024-06,ElectrÃÂ³nica,CÃÂ¡mara digital,5076.0,3.0,15228.0,Bajo
+2024-06,ElectrÃÂ³nica,Smartphone,8705.0,5.0,43525.0,Bajo
+2024-06,ElectrÃÂ³nica,Auriculares,10040.0,6.0,60240.0,Bajo
+2024-07,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10848.0,11.0,119328.0,Alto
+2024-07,DecoraciÃÂ³n,Espejo decorativo,8276.0,8.0,66208.0,Bajo
+2024-07,DecoraciÃÂ³n,Adorno de pared,5762.0,6.0,34572.0,Bajo
+2024-07,DecoraciÃÂ³n,Cuadro decorativo,3049.0,12.0,36588.0,Bajo
+2024-07,DecoraciÃÂ³n,Candelabro,3423.0,12.0,41076.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Plancha de vapor,3363.0,10.0,33630.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Plancha de vapor,2691.0,5.0,13455.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Secadora,9533.0,11.0,104863.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Aspiradora,6555.0,8.0,52440.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Plancha de vapor,5151.0,7.0,36057.0,Bajo
+2024-07,ElectrÃÂ³nica,Auriculares,11604.0,11.0,127644.0,Alto
+2024-07,ElectrÃÂ³nica,Smartphone,10751.0,5.0,53755.0,Bajo
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,2949.0,2.0,5898.0,Bajo
+2024-08,DecoraciÃÂ³n,JarrÃÂ³n decorativo,3705.0,4.0,14820.0,Bajo
+2024-08,DecoraciÃÂ³n,Candelabro,5765.0,6.0,34590.0,Bajo
+2024-08,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,2768.0,8.0,22144.0,Bajo
+2024-08,DecoraciÃÂ³n,Cortinas,3257.0,8.0,26056.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Aspiradora,5086.0,4.0,20344.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,5419.0,12.0,65028.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,7007.0,11.0,77077.0,Alto
+2024-08,ElectrÃÂ³nica,Parlantes Bluetooth,8778.0,1.0,8778.0,Bajo
+2024-08,ElectrÃÂ³nica,SmartWatch,8218.0,10.0,82180.0,Alto
+2024-09,DecoraciÃÂ³n,Cortinas,8571.0,8.0,68568.0,Bajo
+2024-09,DecoraciÃÂ³n,Candelabro,4722.0,5.0,23610.0,Bajo
+2024-09,DecoraciÃÂ³n,Espejo decorativo,6039.0,2.0,12078.0,Bajo
+2024-09,DecoraciÃÂ³n,JarrÃÂ³n decorativo,4246.0,8.0,33968.0,Bajo
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7964.0,11.0,87604.0,Alto
+2024-09,ElectrodomÃÂ©sticos,Cafetera,2988.0,10.0,29880.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Microondas,6739.0,8.0,53912.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Aspiradora,9958.0,7.0,69706.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,6853.0,8.0,54824.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Batidora,3926.0,11.0,43186.0,Bajo
+2024-09,ElectrÃÂ³nica,CÃÂ¡mara digital,12087.0,7.0,84609.0,Alto
+2024-10,DecoraciÃÂ³n,Alfombra,12207.0,9.0,109863.0,Alto
+2024-10,DecoraciÃÂ³n,Espejo decorativo,9629.0,9.0,86661.0,Alto
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10631.0,1.0,10631.0,Bajo
+2024-10,DecoraciÃÂ³n,Adorno de pared,6723.0,10.0,67230.0,Bajo
+2024-10,DecoraciÃÂ³n,JarrÃÂ³n decorativo,4283.0,5.0,21415.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,6615.0,8.0,52920.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Aspiradora,3638.0,5.0,18190.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Microondas,4605.0,6.0,27630.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,3170.0,11.0,34870.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,2988.0,8.0,23904.0,Bajo
+2024-11,DecoraciÃÂ³n,JarrÃÂ³n decorativo,8784.0,7.0,61488.0,Bajo
+2024-11,DecoraciÃÂ³n,Espejo decorativo,3234.0,5.0,16170.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,11970.0,6.0,71820.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Aspiradora,3689.0,7.0,25823.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Batidora,7998.0,12.0,95976.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Lavadora,12075.0,10.0,120750.0,Alto
+2024-11,ElectrÃÂ³nica,SmartWatch,4845.0,2.0,9690.0,Bajo
+2024-11,ElectrÃÂ³nica,Auriculares,11743.0,11.0,129173.0,Alto
+2024-11,ElectrÃÂ³nica,Parlantes Bluetooth,2989.0,9.0,26901.0,Bajo
+2024-12,DecoraciÃÂ³n,Espejo decorativo,5561.0,1.0,5561.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,5257.0,11.0,57827.0,Bajo
+2024-12,ElectrÃÂ³nica,SmartWatch,11500.0,10.0,115000.0,Alto
+2024-12,ElectrÃÂ³nica,Smartphone,6793.0,10.0,67930.0,Bajo
+2024-12,ElectrÃÂ³nica,Consola de videojuegos,11060.0,12.0,132720.0,Alto
+2024-01,DecoraciÃÂ³n,Espejo decorativo,4437.0,2.0,8874.0,Bajo
+2024-01,DecoraciÃÂ³n,RincÃÂ³n de plantas,8192.0,10.0,81920.0,Alto
+2024-01,ElectrodomÃÂ©sticos,Cafetera,10833.0,2.0,21666.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Aspiradora,11238.0,10.0,112380.0,Alto
+2024-01,ElectrodomÃÂ©sticos,Microondas,8916.0,5.0,44580.0,Bajo
+2024-01,ElectrÃÂ³nica,Proyector,7617.0,12.0,91404.0,Alto
+2024-01,ElectrÃÂ³nica,Auriculares,12341.0,8.0,98728.0,Alto
+2024-01,ElectrÃÂ³nica,Consola de videojuegos,8996.0,2.0,17992.0,Bajo
+2024-02,DecoraciÃÂ³n,Adorno de pared,4584.0,10.0,45840.0,Bajo
+2024-02,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10886.0,6.0,65316.0,Bajo
+2024-02,DecoraciÃÂ³n,RincÃÂ³n de plantas,2795.0,7.0,19565.0,Bajo
+2024-02,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,4160.0,12.0,49920.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Plancha de vapor,4760.0,10.0,47600.0,Bajo
+2024-02,ElectrÃÂ³nica,Proyector,11174.0,6.0,67044.0,Bajo
+2024-02,ElectrÃÂ³nica,Auriculares,2600.0,9.0,23400.0,Bajo
+2024-02,ElectrÃÂ³nica,Smartphone,8843.0,2.0,17686.0,Bajo
+2024-02,ElectrÃÂ³nica,Proyector,6288.0,7.0,44016.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,10923.0,7.0,76461.0,Alto
+2024-02,ElectrÃÂ³nica,SmartWatch,10899.0,10.0,108990.0,Alto
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3003.0,8.0,24024.0,Bajo
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7633.0,10.0,76330.0,Alto
+2024-03,DecoraciÃÂ³n,Alfombra,5129.0,2.0,10258.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Secadora,4281.0,7.0,29967.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Batidora,7753.0,4.0,31012.0,Bajo
+2024-03,ElectrÃÂ³nica,CÃÂ¡mara digital,11711.0,9.0,105399.0,Alto
+2024-03,ElectrÃÂ³nica,SmartWatch,4923.0,4.0,19692.0,Bajo
+2024-03,ElectrÃÂ³nica,SmartWatch,8132.0,6.0,48792.0,Bajo
+2024-03,ElectrÃÂ³nica,Parlantes Bluetooth,11042.0,2.0,22084.0,Bajo
+2024-04,DecoraciÃÂ³n,JarrÃÂ³n decorativo,10416.0,10.0,104160.0,Alto
+2024-04,DecoraciÃÂ³n,Espejo decorativo,11799.0,3.0,35397.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Aspiradora,6931.0,10.0,69310.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Lavadora,3861.0,10.0,38610.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Secadora,8424.0,3.0,25272.0,Bajo
+2024-04,ElectrÃÂ³nica,Auriculares,10907.0,4.0,43628.0,Bajo
+2024-04,ElectrÃÂ³nica,Televisor,4923.0,4.0,19692.0,Bajo
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,7051.0,12.0,84612.0,Alto
+2024-05,DecoraciÃÂ³n,Adorno de pared,10032.0,10.0,100320.0,Alto
+2024-05,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,8352.0,12.0,100224.0,Alto
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3390.0,4.0,13560.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,4852.0,4.0,19408.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Lavadora,12328.0,8.0,98624.0,Alto
+2024-05,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8199.0,1.0,8199.0,Bajo
+2024-05,ElectrÃÂ³nica,SmartWatch,7238.0,1.0,7238.0,Bajo
+2024-05,ElectrÃÂ³nica,Laptop,4757.0,4.0,19028.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,6500.0,9.0,58500.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Microondas,8258.0,9.0,74322.0,Alto
+2024-06,ElectrodomÃÂ©sticos,Cafetera,12327.0,4.0,49308.0,Bajo
+2024-06,ElectrÃÂ³nica,CÃÂ¡mara digital,5781.0,10.0,57810.0,Bajo
+2024-06,ElectrÃÂ³nica,SmartWatch,4598.0,3.0,13794.0,Bajo
+2024-06,ElectrÃÂ³nica,Laptop,7059.0,9.0,63531.0,Bajo
+2024-06,ElectrÃÂ³nica,CÃÂ¡mara digital,8953.0,9.0,80577.0,Alto
+2024-06,ElectrÃÂ³nica,CÃÂ¡mara digital,10283.0,5.0,51415.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,12457.0,3.0,37371.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,12211.0,7.0,85477.0,Alto
+2024-07,DecoraciÃÂ³n,Cuadro decorativo,4209.0,12.0,50508.0,Bajo
+2024-07,DecoraciÃÂ³n,Adorno de pared,10374.0,5.0,51870.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,10272.0,2.0,20544.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Plancha de vapor,4848.0,10.0,48480.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Cafetera,10997.0,2.0,21994.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Aspiradora,12482.0,3.0,37446.0,Bajo
+2024-07,ElectrÃÂ³nica,Auriculares,4267.0,6.0,25602.0,Bajo
+2024-08,DecoraciÃÂ³n,Espejo decorativo,3011.0,12.0,36132.0,Bajo
+2024-08,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,4700.0,2.0,9400.0,Bajo
+2024-08,DecoraciÃÂ³n,Alfombra,5002.0,12.0,60024.0,Bajo
+2024-08,DecoraciÃÂ³n,Adorno de pared,11203.0,9.0,100827.0,Alto
+2024-08,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7991.0,8.0,63928.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,5869.0,4.0,23476.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Batidora,7914.0,10.0,79140.0,Alto
+2024-08,ElectrÃÂ³nica,SmartWatch,6498.0,11.0,71478.0,Alto
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5838.0,4.0,23352.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,9571.0,4.0,38284.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,5137.0,9.0,46233.0,Bajo
+2024-09,ElectrÃÂ³nica,Auriculares,5454.0,9.0,49086.0,Bajo
+2024-09,ElectrÃÂ³nica,SmartWatch,9701.0,4.0,38804.0,Bajo
+2024-09,ElectrÃÂ³nica,SmartWatch,11023.0,11.0,121253.0,Alto
+2024-10,DecoraciÃÂ³n,Alfombra,7847.0,1.0,7847.0,Bajo
+2024-10,DecoraciÃÂ³n,Cuadro decorativo,5283.0,12.0,63396.0,Bajo
+2024-10,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,9971.0,3.0,29913.0,Bajo
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,11682.0,3.0,35046.0,Bajo
+2024-10,DecoraciÃÂ³n,Adorno de pared,9148.0,9.0,82332.0,Alto
+2024-10,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8704.0,1.0,8704.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Aspiradora,2611.0,9.0,23499.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Secadora,4543.0,11.0,49973.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Secadora,11557.0,12.0,138684.0,Alto
+2024-10,ElectrÃÂ³nica,Smartphone,4934.0,12.0,59208.0,Bajo
+2024-10,ElectrÃÂ³nica,Smartphone,5933.0,5.0,29665.0,Bajo
+2024-10,ElectrÃÂ³nica,Smartphone,7480.0,5.0,37400.0,Bajo
+2024-10,ElectrÃÂ³nica,Smartphone,9762.0,1.0,9762.0,Bajo
+2024-11,DecoraciÃÂ³n,Espejo decorativo,8116.0,2.0,16232.0,Bajo
+2024-11,DecoraciÃÂ³n,Alfombra,10867.0,4.0,43468.0,Bajo
+2024-11,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,3597.0,2.0,7194.0,Bajo
+2024-11,DecoraciÃÂ³n,Cuadro decorativo,10969.0,8.0,87752.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Plancha de vapor,10157.0,10.0,101570.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8307.0,6.0,49842.0,Bajo
+2024-11,ElectrÃÂ³nica,Consola de videojuegos,11079.0,8.0,88632.0,Alto
+2024-11,ElectrÃÂ³nica,Televisor,11258.0,5.0,56290.0,Bajo
+2024-12,DecoraciÃÂ³n,Cuadro decorativo,7197.0,12.0,86364.0,Alto
+2024-12,DecoraciÃÂ³n,Cuadro decorativo,7208.0,11.0,79288.0,Alto
+2024-12,DecoraciÃÂ³n,Adorno de pared,3750.0,3.0,11250.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Microondas,9635.0,3.0,28905.0,Bajo
+2024-12,ElectrÃÂ³nica,Televisor,9730.0,9.0,87570.0,Alto
+2024-12,ElectrÃÂ³nica,Auriculares,5741.0,4.0,22964.0,Bajo
+2024-12,ElectrÃÂ³nica,Auriculares,7470.0,10.0,74700.0,Alto
+2024-01,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8558.0,11.0,94138.0,Alto
+2024-01,ElectrodomÃÂ©sticos,Batidora,8218.0,6.0,49308.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Microondas,5411.0,7.0,37877.0,Bajo
+2024-01,ElectrÃÂ³nica,Proyector,6666.0,6.0,39996.0,Bajo
+2024-02,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,9288.0,10.0,92880.0,Alto
+2024-02,DecoraciÃÂ³n,Cortinas,3963.0,2.0,7926.0,Bajo
+2024-02,DecoraciÃÂ³n,JarrÃÂ³n decorativo,8034.0,7.0,56238.0,Bajo
+2024-02,DecoraciÃÂ³n,RincÃÂ³n de plantas,8549.0,2.0,17098.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Batidora,6172.0,8.0,49376.0,Bajo
+2024-02,ElectrÃÂ³nica,Televisor,8131.0,9.0,73179.0,Alto
+2024-02,ElectrÃÂ³nica,Televisor,12348.0,7.0,86436.0,Alto
+2024-02,ElectrÃÂ³nica,CÃÂ¡mara digital,3152.0,8.0,25216.0,Bajo
+2024-03,DecoraciÃÂ³n,RincÃÂ³n de plantas,7024.0,7.0,49168.0,Bajo
+2024-03,DecoraciÃÂ³n,Cortinas,12297.0,5.0,61485.0,Bajo
+2024-03,DecoraciÃÂ³n,Espejo decorativo,6437.0,1.0,6437.0,Bajo
+2024-03,DecoraciÃÂ³n,Adorno de pared,7765.0,1.0,7765.0,Bajo
+2024-03,DecoraciÃÂ³n,Alfombra,11835.0,3.0,35505.0,Bajo
+2024-03,ElectrÃÂ³nica,Auriculares,5520.0,10.0,55200.0,Bajo
+2024-04,DecoraciÃÂ³n,Cortinas,10874.0,3.0,32622.0,Bajo
+2024-04,DecoraciÃÂ³n,JarrÃÂ³n decorativo,11206.0,1.0,11206.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Cafetera,3844.0,7.0,26908.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Secadora,3389.0,7.0,23723.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,10997.0,7.0,76979.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Cafetera,10632.0,1.0,10632.0,Bajo
+2024-04,ElectrÃÂ³nica,Proyector,7706.0,1.0,7706.0,Bajo
+2024-05,DecoraciÃÂ³n,Adorno de pared,4491.0,1.0,4491.0,Bajo
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,5723.0,5.0,28615.0,Bajo
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,11558.0,12.0,138696.0,Alto
+2024-05,ElectrodomÃÂ©sticos,Lavadora,10853.0,10.0,108530.0,Alto
+2024-05,ElectrodomÃÂ©sticos,Secadora,5904.0,11.0,64944.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,6775.0,2.0,13550.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Microondas,8163.0,6.0,48978.0,Bajo
+2024-05,ElectrÃÂ³nica,Smartphone,12401.0,12.0,148812.0,Alto
+2024-05,ElectrÃÂ³nica,Televisor,3314.0,1.0,3314.0,Bajo
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,11577.0,11.0,127347.0,Alto
+2024-06,ElectrodomÃÂ©sticos,Secadora,5933.0,8.0,47464.0,Bajo
+2024-06,ElectrÃÂ³nica,Proyector,4099.0,2.0,8198.0,Bajo
+2024-06,ElectrÃÂ³nica,SmartWatch,10057.0,9.0,90513.0,Alto
+2024-06,ElectrÃÂ³nica,SmartWatch,10096.0,10.0,100960.0,Alto
+2024-06,ElectrÃÂ³nica,Televisor,11968.0,2.0,23936.0,Bajo
+2024-07,DecoraciÃÂ³n,Cuadro decorativo,4504.0,10.0,45040.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,4466.0,7.0,31262.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3426.0,11.0,37686.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,7009.0,1.0,7009.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Cafetera,3931.0,11.0,43241.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Cafetera,11743.0,8.0,93944.0,Alto
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,11747.0,8.0,93976.0,Alto
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,11887.0,6.0,71322.0,Alto
+2024-08,DecoraciÃÂ³n,Espejo decorativo,7036.0,5.0,35180.0,Bajo
+2024-08,DecoraciÃÂ³n,Cortinas,8455.0,5.0,42275.0,Bajo
+2024-08,DecoraciÃÂ³n,RincÃÂ³n de plantas,4649.0,1.0,4649.0,Bajo
+2024-08,DecoraciÃÂ³n,Alfombra,9714.0,1.0,9714.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Batidora,2986.0,4.0,11944.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Aspiradora,6042.0,11.0,66462.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,5329.0,12.0,63948.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Batidora,6559.0,9.0,59031.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,3711.0,3.0,11133.0,Bajo
+2024-09,DecoraciÃÂ³n,Cortinas,3967.0,2.0,7934.0,Bajo
+2024-09,DecoraciÃÂ³n,Adorno de pared,3468.0,5.0,17340.0,Bajo
+2024-09,DecoraciÃÂ³n,Alfombra,10281.0,9.0,92529.0,Alto
+2024-09,DecoraciÃÂ³n,Alfombra,4899.0,8.0,39192.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Batidora,4880.0,11.0,53680.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Microondas,6957.0,1.0,6957.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Aspiradora,8629.0,12.0,103548.0,Alto
+2024-09,ElectrÃÂ³nica,Televisor,6899.0,10.0,68990.0,Bajo
+2024-09,ElectrÃÂ³nica,Tablet,5419.0,3.0,16257.0,Bajo
+2024-09,ElectrÃÂ³nica,Auriculares,7929.0,6.0,47574.0,Bajo
+2024-09,ElectrÃÂ³nica,Auriculares,5171.0,3.0,15513.0,Bajo
+2024-09,ElectrÃÂ³nica,Laptop,3913.0,8.0,31304.0,Bajo
+2024-09,ElectrÃÂ³nica,Smartphone,11860.0,11.0,130460.0,Alto
+2024-10,DecoraciÃÂ³n,JarrÃÂ³n decorativo,5108.0,11.0,56188.0,Bajo
+2024-10,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,9641.0,11.0,106051.0,Alto
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,2905.0,10.0,29050.0,Bajo
+2024-10,DecoraciÃÂ³n,RincÃÂ³n de plantas,3205.0,4.0,12820.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Batidora,8559.0,5.0,42795.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Batidora,4937.0,9.0,44433.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,2885.0,11.0,31735.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Cafetera,9684.0,11.0,106524.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,7713.0,4.0,30852.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,10260.0,12.0,123120.0,Alto
+2024-10,ElectrÃÂ³nica,Auriculares,5517.0,4.0,22068.0,Bajo
+2024-11,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8987.0,12.0,107844.0,Alto
+2024-11,DecoraciÃÂ³n,Alfombra,6509.0,5.0,32545.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Plancha de vapor,4078.0,12.0,48936.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,6153.0,11.0,67683.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,5905.0,8.0,47240.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Aspiradora,4294.0,2.0,8588.0,Bajo
+2024-11,ElectrÃÂ³nica,Laptop,4334.0,8.0,34672.0,Bajo
+2024-12,DecoraciÃÂ³n,Espejo decorativo,8504.0,9.0,76536.0,Alto
+2024-12,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,4689.0,2.0,9378.0,Bajo
+2024-12,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,4155.0,3.0,12465.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Heladera,12185.0,10.0,121850.0,Alto
+2024-12,ElectrodomÃÂ©sticos,Cafetera,3070.0,5.0,15350.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Lavadora,11472.0,9.0,103248.0,Alto
+2024-12,ElectrÃÂ³nica,Televisor,3180.0,10.0,31800.0,Bajo
+2024-12,ElectrÃÂ³nica,Proyector,7615.0,11.0,83765.0,Alto
+2024-01,DecoraciÃÂ³n,Adorno de pared,8752.0,8.0,70016.0,Bajo
+2024-01,DecoraciÃÂ³n,Cuadro decorativo,2799.0,5.0,13995.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Heladera,5858.0,4.0,23432.0,Bajo
+2024-01,ElectrÃÂ³nica,Consola de videojuegos,10241.0,5.0,51205.0,Bajo
+2024-01,ElectrÃÂ³nica,Smartphone,10369.0,1.0,10369.0,Bajo
+2024-01,ElectrÃÂ³nica,Auriculares,8929.0,2.0,17858.0,Bajo
+2024-02,DecoraciÃÂ³n,Alfombra,7291.0,1.0,7291.0,Bajo
+2024-02,DecoraciÃÂ³n,Espejo decorativo,3464.0,12.0,41568.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,4240.0,10.0,42400.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,11021.0,4.0,44084.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,2761.0,6.0,16566.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,5868.0,4.0,23472.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Secadora,3942.0,9.0,35478.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Batidora,12114.0,3.0,36342.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Microondas,9624.0,4.0,38496.0,Bajo
+2024-03,DecoraciÃÂ³n,Cortinas,2705.0,3.0,8115.0,Bajo
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,9822.0,4.0,39288.0,Bajo
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3526.0,9.0,31734.0,Bajo
+2024-03,DecoraciÃÂ³n,Adorno de pared,6418.0,7.0,44926.0,Bajo
+2024-03,DecoraciÃÂ³n,Espejo decorativo,4351.0,1.0,4351.0,Bajo
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3986.0,6.0,23916.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Cafetera,9158.0,11.0,100738.0,Alto
+2024-03,ElectrodomÃÂ©sticos,Plancha de vapor,9908.0,11.0,108988.0,Alto
+2024-03,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8246.0,4.0,32984.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,4058.0,5.0,20290.0,Bajo
+2024-03,ElectrÃÂ³nica,SmartWatch,3884.0,7.0,27188.0,Bajo
+2024-03,ElectrÃÂ³nica,Parlantes Bluetooth,7068.0,5.0,35340.0,Bajo
+2024-03,ElectrÃÂ³nica,Televisor,8142.0,9.0,73278.0,Alto
+2024-04,DecoraciÃÂ³n,Cuadro decorativo,8793.0,11.0,96723.0,Alto
+2024-04,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,6112.0,9.0,55008.0,Bajo
+2024-04,DecoraciÃÂ³n,Adorno de pared,4930.0,2.0,9860.0,Bajo
+2024-04,DecoraciÃÂ³n,Adorno de pared,3310.0,1.0,3310.0,Bajo
+2024-04,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8682.0,10.0,86820.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,11605.0,11.0,127655.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Secadora,3156.0,11.0,34716.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Cafetera,6897.0,8.0,55176.0,Bajo
+2024-04,ElectrÃÂ³nica,Tablet,7439.0,7.0,52073.0,Bajo
+2024-05,DecoraciÃÂ³n,Cortinas,6624.0,5.0,33120.0,Bajo
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,11483.0,9.0,103347.0,Alto
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,8794.0,2.0,17588.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Cafetera,6223.0,1.0,6223.0,Bajo
+2024-05,ElectrÃÂ³nica,Auriculares,3281.0,11.0,36091.0,Bajo
+2024-05,ElectrÃÂ³nica,SmartWatch,7066.0,7.0,49462.0,Bajo
+2024-05,DecoraciÃÂ³n,Cortinas,6624.0,5.0,33120.0,Bajo
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,11483.0,9.0,103347.0,Alto
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,8794.0,2.0,17588.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Cafetera,6223.0,1.0,6223.0,Bajo
+2024-05,ElectrÃÂ³nica,Auriculares,3281.0,11.0,36091.0,Bajo
+2024-05,ElectrÃÂ³nica,SmartWatch,7066.0,7.0,49462.0,Bajo
+2024-06,DecoraciÃÂ³n,Alfombra,4172.0,8.0,33376.0,Bajo
+2024-06,DecoraciÃÂ³n,Adorno de pared,6775.0,9.0,60975.0,Bajo
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3543.0,2.0,7086.0,Bajo
+2024-06,DecoraciÃÂ³n,Cortinas,8404.0,3.0,25212.0,Bajo
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7632.0,7.0,53424.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Secadora,6958.0,7.0,48706.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Secadora,3355.0,3.0,10065.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,11524.0,3.0,34572.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,8732.0,7.0,61124.0,Bajo
+2024-06,ElectrÃÂ³nica,Consola de videojuegos,10069.0,7.0,70483.0,Bajo
+2024-06,ElectrÃÂ³nica,SmartWatch,7937.0,10.0,79370.0,Alto
+2024-06,ElectrÃÂ³nica,Proyector,12034.0,1.0,12034.0,Bajo
+2024-06,DecoraciÃÂ³n,Alfombra,4172.0,8.0,33376.0,Bajo
+2024-06,DecoraciÃÂ³n,Adorno de pared,6775.0,9.0,60975.0,Bajo
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3543.0,2.0,7086.0,Bajo
+2024-06,DecoraciÃÂ³n,Cortinas,8404.0,3.0,25212.0,Bajo
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7632.0,7.0,53424.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Secadora,6958.0,7.0,48706.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Secadora,3355.0,3.0,10065.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,11524.0,3.0,34572.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,8732.0,7.0,61124.0,Bajo
+2024-06,ElectrÃÂ³nica,Consola de videojuegos,10069.0,7.0,70483.0,Bajo
+2024-06,ElectrÃÂ³nica,SmartWatch,7937.0,10.0,79370.0,Alto
+2024-06,ElectrÃÂ³nica,Proyector,12034.0,1.0,12034.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,4076.0,8.0,32608.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,5678.0,9.0,51102.0,Bajo
+2024-07,DecoraciÃÂ³n,RincÃÂ³n de plantas,7730.0,7.0,54110.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7250.0,1.0,7250.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7117.0,10.0,71170.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Heladera,8878.0,2.0,17756.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Secadora,4259.0,12.0,51108.0,Bajo
+2024-07,ElectrÃÂ³nica,Auriculares,12256.0,6.0,73536.0,Alto
+2024-07,ElectrÃÂ³nica,Laptop,8325.0,6.0,49950.0,Bajo
+2024-07,ElectrÃÂ³nica,Laptop,3016.0,6.0,18096.0,Bajo
+2024-07,ElectrÃÂ³nica,Smartphone,12360.0,12.0,148320.0,Alto
+2024-07,DecoraciÃÂ³n,Espejo decorativo,4076.0,8.0,32608.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,5678.0,9.0,51102.0,Bajo
+2024-07,DecoraciÃÂ³n,RincÃÂ³n de plantas,7730.0,7.0,54110.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7250.0,1.0,7250.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7117.0,10.0,71170.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Heladera,8878.0,2.0,17756.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Secadora,4259.0,12.0,51108.0,Bajo
+2024-07,ElectrÃÂ³nica,Auriculares,12256.0,6.0,73536.0,Alto
+2024-07,ElectrÃÂ³nica,Laptop,8325.0,6.0,49950.0,Bajo
+2024-07,ElectrÃÂ³nica,Laptop,3016.0,6.0,18096.0,Bajo
+2024-07,ElectrÃÂ³nica,Smartphone,12360.0,12.0,148320.0,Alto
+2024-08,DecoraciÃÂ³n,JarrÃÂ³n decorativo,9475.0,1.0,9475.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,3812.0,2.0,7624.0,Bajo
+2024-08,ElectrÃÂ³nica,Auriculares,9291.0,11.0,102201.0,Alto
+2024-08,ElectrÃÂ³nica,Laptop,12495.0,11.0,137445.0,Alto
+2024-08,ElectrÃÂ³nica,Laptop,3474.0,1.0,3474.0,Bajo
+2024-08,ElectrÃÂ³nica,Auriculares,8729.0,2.0,17458.0,Bajo
+2024-08,DecoraciÃÂ³n,JarrÃÂ³n decorativo,9475.0,1.0,9475.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,3812.0,2.0,7624.0,Bajo
+2024-08,ElectrÃÂ³nica,Auriculares,9291.0,11.0,102201.0,Alto
+2024-08,ElectrÃÂ³nica,Laptop,12495.0,11.0,137445.0,Alto
+2024-08,ElectrÃÂ³nica,Laptop,3474.0,1.0,3474.0,Bajo
+2024-08,ElectrÃÂ³nica,Auriculares,8729.0,2.0,17458.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Lavadora,8765.0,2.0,17530.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Aspiradora,3410.0,3.0,10230.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,10364.0,10.0,103640.0,Alto
+2024-09,ElectrodomÃÂ©sticos,Batidora,8823.0,11.0,97053.0,Alto
+2024-09,ElectrÃÂ³nica,Televisor,3423.0,4.0,13692.0,Bajo
+2024-10,DecoraciÃÂ³n,RincÃÂ³n de plantas,10285.0,3.0,30855.0,Bajo
+2024-10,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,9645.0,1.0,9645.0,Bajo
+2024-10,DecoraciÃÂ³n,Cortinas,11955.0,7.0,83685.0,Alto
+2024-10,DecoraciÃÂ³n,Cortinas,4274.0,12.0,51288.0,Bajo
+2024-10,DecoraciÃÂ³n,Adorno de pared,6600.0,4.0,26400.0,Bajo
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,5297.0,2.0,10594.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Lavadora,4969.0,12.0,59628.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Secadora,12409.0,4.0,49636.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Lavadora,3720.0,10.0,37200.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Cafetera,3194.0,11.0,35134.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,7606.0,9.0,68454.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8890.0,6.0,53340.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Batidora,3851.0,9.0,34659.0,Bajo
+2024-10,ElectrÃÂ³nica,Parlantes Bluetooth,7911.0,3.0,23733.0,Bajo
+2024-10,ElectrÃÂ³nica,Auriculares,12280.0,3.0,36840.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,6089.0,1.0,6089.0,Bajo
+2024-11,DecoraciÃÂ³n,Cortinas,2629.0,7.0,18403.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Batidora,12383.0,12.0,148596.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Cafetera,10198.0,2.0,20396.0,Bajo
+2024-11,ElectrÃÂ³nica,Consola de videojuegos,4608.0,7.0,32256.0,Bajo
+2024-11,ElectrÃÂ³nica,SmartWatch,8084.0,8.0,64672.0,Bajo
+2024-11,ElectrÃÂ³nica,Tablet,6388.0,8.0,51104.0,Bajo
+2024-11,ElectrÃÂ³nica,Tablet,9590.0,2.0,19180.0,Bajo
+2024-12,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,9384.0,8.0,75072.0,Alto
+2024-12,DecoraciÃÂ³n,Cuadro decorativo,7891.0,8.0,63128.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Aspiradora,6873.0,5.0,34365.0,Bajo
+2024-12,ElectrÃÂ³nica,Televisor,5440.0,5.0,27200.0,Bajo
+2024-12,ElectrÃÂ³nica,Televisor,5260.0,2.0,10520.0,Bajo
+2024-01,DecoraciÃÂ³n,Cortinas,9605.0,5.0,48025.0,Bajo
+2024-01,DecoraciÃÂ³n,Alfombra,12018.0,3.0,36054.0,Bajo
+2024-01,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3972.0,2.0,7944.0,Bajo
+2024-01,DecoraciÃÂ³n,Cuadro decorativo,2620.0,10.0,26200.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Lavadora,8158.0,12.0,97896.0,Alto
+2024-01,ElectrodomÃÂ©sticos,Secadora,10127.0,7.0,70889.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Microondas,3803.0,11.0,41833.0,Bajo
+2024-01,ElectrÃÂ³nica,Televisor,10546.0,11.0,116006.0,Alto
+2024-01,ElectrÃÂ³nica,Laptop,5036.0,6.0,30216.0,Bajo
+2024-02,DecoraciÃÂ³n,Adorno de pared,11216.0,8.0,89728.0,Alto
+2024-02,DecoraciÃÂ³n,Cortinas,10795.0,1.0,10795.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,10844.0,5.0,54220.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Lavadora,5122.0,4.0,20488.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Heladera,11686.0,5.0,58430.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,8892.0,8.0,71136.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Plancha de vapor,4378.0,9.0,39402.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Heladera,6518.0,1.0,6518.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Batidora,7290.0,1.0,7290.0,Bajo
+2024-02,ElectrÃÂ³nica,Parlantes Bluetooth,12434.0,11.0,136774.0,Alto
+2024-02,ElectrÃÂ³nica,Consola de videojuegos,7004.0,12.0,84048.0,Alto
+2024-02,ElectrÃÂ³nica,Parlantes Bluetooth,11991.0,9.0,107919.0,Alto
+2024-02,ElectrÃÂ³nica,Auriculares,10406.0,11.0,114466.0,Alto
+2024-02,ElectrÃÂ³nica,SmartWatch,10080.0,4.0,40320.0,Bajo
+2024-03,DecoraciÃÂ³n,Adorno de pared,5536.0,9.0,49824.0,Bajo
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,12257.0,6.0,73542.0,Alto
+2024-03,ElectrodomÃÂ©sticos,Aspiradora,10700.0,8.0,85600.0,Alto
+2024-03,ElectrodomÃÂ©sticos,Batidora,7174.0,9.0,64566.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Batidora,8756.0,9.0,78804.0,Alto
+2024-03,ElectrÃÂ³nica,Auriculares,10265.0,4.0,41060.0,Bajo
+2024-03,ElectrÃÂ³nica,Auriculares,3955.0,3.0,11865.0,Bajo
+2024-03,ElectrÃÂ³nica,Smartphone,6759.0,2.0,13518.0,Bajo
+2024-03,ElectrÃÂ³nica,Auriculares,5892.0,3.0,17676.0,Bajo
+2024-04,DecoraciÃÂ³n,Cortinas,3247.0,5.0,16235.0,Bajo
+2024-04,DecoraciÃÂ³n,Cuadro decorativo,6190.0,5.0,30950.0,Bajo
+2024-04,DecoraciÃÂ³n,Cortinas,11932.0,9.0,107388.0,Alto
+2024-04,DecoraciÃÂ³n,Espejo decorativo,8145.0,2.0,16290.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Secadora,10952.0,10.0,109520.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Secadora,9975.0,4.0,39900.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Heladera,6310.0,12.0,75720.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Heladera,3146.0,9.0,28314.0,Bajo
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3389.0,2.0,6778.0,Bajo
+2024-05,DecoraciÃÂ³n,Espejo decorativo,4392.0,11.0,48312.0,Bajo
+2024-05,DecoraciÃÂ³n,Adorno de pared,4311.0,4.0,17244.0,Bajo
+2024-05,DecoraciÃÂ³n,Cortinas,10726.0,2.0,21452.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,6115.0,3.0,18345.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Aspiradora,7974.0,6.0,47844.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Lavadora,11969.0,5.0,59845.0,Bajo
+2024-05,ElectrÃÂ³nica,Smartphone,7439.0,3.0,22317.0,Bajo
+2024-05,ElectrÃÂ³nica,Auriculares,9333.0,6.0,55998.0,Bajo
+2024-05,ElectrÃÂ³nica,SmartWatch,10881.0,10.0,108810.0,Alto
+2024-06,DecoraciÃÂ³n,RincÃÂ³n de plantas,9130.0,6.0,54780.0,Bajo
+2024-06,DecoraciÃÂ³n,Adorno de pared,9899.0,8.0,79192.0,Alto
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,9199.0,11.0,101189.0,Alto
+2024-06,DecoraciÃÂ³n,Alfombra,4337.0,11.0,47707.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,9907.0,8.0,79256.0,Alto
+2024-06,ElectrÃÂ³nica,Parlantes Bluetooth,10816.0,3.0,32448.0,Bajo
+2024-06,ElectrÃÂ³nica,Auriculares,5819.0,6.0,34914.0,Bajo
+2024-06,ElectrÃÂ³nica,SmartWatch,11530.0,10.0,115300.0,Alto
+2024-06,ElectrÃÂ³nica,Consola de videojuegos,6535.0,6.0,39210.0,Bajo
+2024-06,ElectrÃÂ³nica,Parlantes Bluetooth,9722.0,1.0,9722.0,Bajo
+2024-07,DecoraciÃÂ³n,RincÃÂ³n de plantas,6582.0,1.0,6582.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Cafetera,6163.0,3.0,18489.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Secadora,3722.0,4.0,14888.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,6897.0,5.0,34485.0,Bajo
+2024-07,ElectrÃÂ³nica,Auriculares,3587.0,5.0,17935.0,Bajo
+2024-08,DecoraciÃÂ³n,Cuadro decorativo,12236.0,6.0,73416.0,Alto
+2024-08,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,11822.0,11.0,130042.0,Alto
+2024-08,DecoraciÃÂ³n,Espejo decorativo,12090.0,6.0,72540.0,Alto
+2024-08,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,12114.0,2.0,24228.0,Bajo
+2024-08,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,5649.0,10.0,56490.0,Bajo
+2024-08,DecoraciÃÂ³n,Adorno de pared,7464.0,11.0,82104.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Secadora,9667.0,7.0,67669.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Lavadora,8241.0,2.0,16482.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,8790.0,2.0,17580.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Plancha de vapor,11370.0,5.0,56850.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Heladera,10549.0,3.0,31647.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,10639.0,12.0,127668.0,Alto
+2024-09,DecoraciÃÂ³n,JarrÃÂ³n decorativo,2977.0,5.0,14885.0,Bajo
+2024-09,DecoraciÃÂ³n,JarrÃÂ³n decorativo,3460.0,1.0,3460.0,Bajo
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,4329.0,11.0,47619.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Cafetera,8464.0,9.0,76176.0,Alto
+2024-09,ElectrodomÃÂ©sticos,Cafetera,10790.0,11.0,118690.0,Alto
+2024-09,ElectrÃÂ³nica,Smartphone,7513.0,12.0,90156.0,Alto
+2024-09,ElectrÃÂ³nica,Consola de videojuegos,6943.0,3.0,20829.0,Bajo
+2024-09,ElectrÃÂ³nica,Auriculares,7928.0,2.0,15856.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,7533.0,11.0,82863.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Cafetera,9479.0,12.0,113748.0,Alto
+2024-10,ElectrÃÂ³nica,Parlantes Bluetooth,9897.0,7.0,69279.0,Bajo
+2024-10,ElectrÃÂ³nica,Smartphone,10948.0,5.0,54740.0,Bajo
+2024-10,ElectrÃÂ³nica,Proyector,4493.0,5.0,22465.0,Bajo
+2024-10,ElectrÃÂ³nica,Proyector,4862.0,1.0,4862.0,Bajo
+2024-10,ElectrÃÂ³nica,Parlantes Bluetooth,3625.0,4.0,14500.0,Bajo
+2024-11,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,11490.0,10.0,114900.0,Alto
+2024-11,DecoraciÃÂ³n,Adorno de pared,9362.0,6.0,56172.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Secadora,5624.0,8.0,44992.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,9747.0,11.0,107217.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Cafetera,11123.0,2.0,22246.0,Bajo
+2024-11,ElectrÃÂ³nica,Auriculares,9413.0,10.0,94130.0,Alto
+2024-11,ElectrÃÂ³nica,Televisor,7954.0,1.0,7954.0,Bajo
+2024-11,ElectrÃÂ³nica,Televisor,10731.0,3.0,32193.0,Bajo
+2024-12,DecoraciÃÂ³n,Alfombra,9094.0,12.0,109128.0,Alto
+2024-12,DecoraciÃÂ³n,Espejo decorativo,5484.0,5.0,27420.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Batidora,4678.0,5.0,23390.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Lavadora,9585.0,8.0,76680.0,Alto
+2024-12,ElectrodomÃÂ©sticos,Batidora,4545.0,12.0,54540.0,Bajo
+2024-12,ElectrÃÂ³nica,Consola de videojuegos,10061.0,6.0,60366.0,Bajo
+2024-12,ElectrÃÂ³nica,SmartWatch,6644.0,3.0,19932.0,Bajo
+2024-01,DecoraciÃÂ³n,Cortinas,10627.0,2.0,21254.0,Bajo
+2024-01,DecoraciÃÂ³n,Adorno de pared,8265.0,5.0,41325.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Plancha de vapor,4922.0,2.0,9844.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Batidora,9287.0,10.0,92870.0,Alto
+2024-01,ElectrÃÂ³nica,Parlantes Bluetooth,7970.0,8.0,63760.0,Bajo
+2024-01,ElectrÃÂ³nica,Proyector,11545.0,7.0,80815.0,Alto
+2024-02,DecoraciÃÂ³n,Adorno de pared,3327.0,12.0,39924.0,Bajo
+2024-02,DecoraciÃÂ³n,Espejo decorativo,9277.0,5.0,46385.0,Bajo
+2024-02,DecoraciÃÂ³n,JarrÃÂ³n decorativo,8495.0,12.0,101940.0,Alto
+2024-02,DecoraciÃÂ³n,RincÃÂ³n de plantas,3790.0,10.0,37900.0,Bajo
+2024-02,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,10154.0,4.0,40616.0,Bajo
+2024-02,DecoraciÃÂ³n,JarrÃÂ³n decorativo,4032.0,4.0,16128.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Microondas,8424.0,9.0,75816.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8208.0,8.0,65664.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Secadora,7729.0,4.0,30916.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Secadora,7314.0,6.0,43884.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Heladera,5463.0,5.0,27315.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Heladera,4835.0,9.0,43515.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Aspiradora,6963.0,12.0,83556.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Heladera,5636.0,12.0,67632.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,3409.0,6.0,20454.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,10726.0,4.0,42904.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Heladera,10748.0,12.0,128976.0,Alto
+2024-03,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,7585.0,2.0,15170.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Plancha de vapor,11560.0,10.0,115600.0,Alto
+2024-03,ElectrodomÃÂ©sticos,Microondas,9754.0,4.0,39016.0,Bajo
+2024-03,ElectrÃÂ³nica,Auriculares,10483.0,9.0,94347.0,Alto
+2024-03,ElectrÃÂ³nica,CÃÂ¡mara digital,11008.0,4.0,44032.0,Bajo
+2024-04,DecoraciÃÂ³n,Cuadro decorativo,5242.0,3.0,15726.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Microondas,10839.0,12.0,130068.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Cafetera,4670.0,2.0,9340.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Microondas,11161.0,2.0,22322.0,Bajo
+2024-04,ElectrÃÂ³nica,CÃÂ¡mara digital,5404.0,8.0,43232.0,Bajo
+2024-04,ElectrÃÂ³nica,SmartWatch,5455.0,11.0,60005.0,Bajo
+2024-04,ElectrÃÂ³nica,CÃÂ¡mara digital,4443.0,6.0,26658.0,Bajo
+2024-05,DecoraciÃÂ³n,Espejo decorativo,8628.0,10.0,86280.0,Alto
+2024-05,ElectrodomÃÂ©sticos,Batidora,5803.0,10.0,58030.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,4961.0,2.0,9922.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Aspiradora,4321.0,7.0,30247.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,9485.0,7.0,66395.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Microondas,9428.0,9.0,84852.0,Alto
+2024-06,DecoraciÃÂ³n,Adorno de pared,10319.0,9.0,92871.0,Alto
+2024-06,DecoraciÃÂ³n,Cortinas,9010.0,8.0,72080.0,Alto
+2024-06,DecoraciÃÂ³n,Adorno de pared,9185.0,6.0,55110.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Plancha de vapor,6669.0,1.0,6669.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,6632.0,6.0,39792.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3593.0,12.0,43116.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Cafetera,4454.0,4.0,17816.0,Bajo
+2024-06,ElectrÃÂ³nica,Consola de videojuegos,4395.0,11.0,48345.0,Bajo
+2024-06,ElectrÃÂ³nica,Tablet,11652.0,3.0,34956.0,Bajo
+2024-07,DecoraciÃÂ³n,Cortinas,4614.0,2.0,9228.0,Bajo
+2024-07,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10840.0,7.0,75880.0,Alto
+2024-07,DecoraciÃÂ³n,Cortinas,9057.0,2.0,18114.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,7358.0,5.0,36790.0,Bajo
+2024-07,ElectrÃÂ³nica,Tablet,12297.0,2.0,24594.0,Bajo
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,3897.0,9.0,35073.0,Bajo
+2024-07,ElectrÃÂ³nica,Tablet,5611.0,7.0,39277.0,Bajo
+2024-08,DecoraciÃÂ³n,RincÃÂ³n de plantas,7847.0,6.0,47082.0,Bajo
+2024-08,DecoraciÃÂ³n,Cortinas,11502.0,12.0,138024.0,Alto
+2024-08,DecoraciÃÂ³n,Adorno de pared,4755.0,3.0,14265.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Lavadora,3190.0,5.0,15950.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Aspiradora,9109.0,11.0,100199.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Batidora,7201.0,9.0,64809.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Lavadora,11142.0,7.0,77994.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Plancha de vapor,2965.0,11.0,32615.0,Bajo
+2024-08,ElectrÃÂ³nica,SmartWatch,2736.0,4.0,10944.0,Bajo
+2024-08,ElectrÃÂ³nica,SmartWatch,10589.0,9.0,95301.0,Alto
+2024-08,ElectrÃÂ³nica,Parlantes Bluetooth,4714.0,5.0,23570.0,Bajo
+2024-08,ElectrÃÂ³nica,CÃÂ¡mara digital,3759.0,6.0,22554.0,Bajo
+2024-09,DecoraciÃÂ³n,RincÃÂ³n de plantas,5426.0,10.0,54260.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Batidora,12386.0,3.0,37158.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Secadora,6545.0,12.0,78540.0,Alto
+2024-09,ElectrÃÂ³nica,Auriculares,4674.0,12.0,56088.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,3067.0,7.0,21469.0,Bajo
+2024-10,ElectrÃÂ³nica,Televisor,3953.0,12.0,47436.0,Bajo
+2024-10,ElectrÃÂ³nica,SmartWatch,4680.0,3.0,14040.0,Bajo
+2024-10,ElectrÃÂ³nica,Parlantes Bluetooth,12198.0,7.0,85386.0,Alto
+2024-11,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,4423.0,4.0,17692.0,Bajo
+2024-11,DecoraciÃÂ³n,Adorno de pared,10557.0,7.0,73899.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,8012.0,8.0,64096.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Plancha de vapor,8186.0,12.0,98232.0,Alto
+2024-11,ElectrÃÂ³nica,Auriculares,10807.0,10.0,108070.0,Alto
+2024-11,ElectrÃÂ³nica,Auriculares,7481.0,12.0,89772.0,Alto
+2024-11,ElectrÃÂ³nica,SmartWatch,5895.0,9.0,53055.0,Bajo
+2024-11,ElectrÃÂ³nica,Televisor,12259.0,7.0,85813.0,Alto
+2024-11,ElectrÃÂ³nica,Proyector,8092.0,8.0,64736.0,Bajo
+2024-11,ElectrÃÂ³nica,Proyector,6235.0,3.0,18705.0,Bajo
+2024-11,ElectrÃÂ³nica,Auriculares,10603.0,7.0,74221.0,Alto
+2024-12,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,7317.0,10.0,73170.0,Alto
+2024-12,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5151.0,2.0,10302.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Aspiradora,9511.0,4.0,38044.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Microondas,3373.0,1.0,3373.0,Bajo
+2024-12,ElectrÃÂ³nica,Tablet,2685.0,9.0,24165.0,Bajo
+2024-12,ElectrÃÂ³nica,Tablet,6602.0,8.0,52816.0,Bajo
+2024-12,ElectrÃÂ³nica,Laptop,3757.0,4.0,15028.0,Bajo
+2024-12,ElectrÃÂ³nica,Laptop,5849.0,7.0,40943.0,Bajo
+2024-01,DecoraciÃÂ³n,Espejo decorativo,11902.0,1.0,11902.0,Bajo
+2024-01,DecoraciÃÂ³n,Alfombra,7274.0,3.0,21822.0,Bajo
+2024-01,ElectrÃÂ³nica,Tablet,7488.0,11.0,82368.0,Alto
+2024-01,ElectrÃÂ³nica,Auriculares,7862.0,11.0,86482.0,Alto
+2024-01,ElectrÃÂ³nica,Auriculares,7061.0,1.0,7061.0,Bajo
+2024-01,ElectrÃÂ³nica,CÃÂ¡mara digital,7977.0,2.0,15954.0,Bajo
+2024-02,DecoraciÃÂ³n,Espejo decorativo,6559.0,1.0,6559.0,Bajo
+2024-02,DecoraciÃÂ³n,Alfombra,4763.0,5.0,23815.0,Bajo
+2024-02,DecoraciÃÂ³n,Alfombra,12405.0,10.0,124050.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,7907.0,7.0,55349.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Secadora,6521.0,10.0,65210.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Batidora,2922.0,2.0,5844.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,10111.0,7.0,70777.0,Bajo
+2024-02,ElectrÃÂ³nica,Smartphone,6849.0,11.0,75339.0,Alto
+2024-02,ElectrÃÂ³nica,SmartWatch,11854.0,3.0,35562.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,9978.0,12.0,119736.0,Alto
+2024-02,ElectrÃÂ³nica,SmartWatch,9279.0,1.0,9279.0,Bajo
+2024-03,DecoraciÃÂ³n,Cuadro decorativo,8572.0,5.0,42860.0,Bajo
+2024-03,DecoraciÃÂ³n,Alfombra,8074.0,6.0,48444.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Cafetera,5248.0,6.0,31488.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Microondas,11546.0,2.0,23092.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Cafetera,11580.0,12.0,138960.0,Alto
+2024-03,ElectrÃÂ³nica,Laptop,8643.0,12.0,103716.0,Alto
+2024-03,ElectrÃÂ³nica,Consola de videojuegos,6092.0,8.0,48736.0,Bajo
+2024-04,DecoraciÃÂ³n,Alfombra,11083.0,2.0,22166.0,Bajo
+2024-04,DecoraciÃÂ³n,Adorno de pared,6702.0,9.0,60318.0,Bajo
+2024-04,DecoraciÃÂ³n,Cortinas,3835.0,7.0,26845.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3732.0,7.0,26124.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,7266.0,2.0,14532.0,Bajo
+2024-04,ElectrÃÂ³nica,CÃÂ¡mara digital,2968.0,11.0,32648.0,Bajo
+2024-05,DecoraciÃÂ³n,Alfombra,3803.0,1.0,3803.0,Bajo
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3586.0,9.0,32274.0,Bajo
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7668.0,2.0,15336.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Microondas,9379.0,1.0,9379.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,5679.0,11.0,62469.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Lavadora,7280.0,2.0,14560.0,Bajo
+2024-05,ElectrÃÂ³nica,Auriculares,8256.0,12.0,99072.0,Alto
+2024-06,DecoraciÃÂ³n,Espejo decorativo,11270.0,11.0,123970.0,Alto
+2024-06,DecoraciÃÂ³n,Cortinas,8927.0,4.0,35708.0,Bajo
+2024-06,DecoraciÃÂ³n,RincÃÂ³n de plantas,3218.0,4.0,12872.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Plancha de vapor,8083.0,9.0,72747.0,Alto
+2024-06,ElectrodomÃÂ©sticos,Microondas,7037.0,6.0,42222.0,Bajo
+2024-06,ElectrÃÂ³nica,Parlantes Bluetooth,6709.0,6.0,40254.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,7311.0,3.0,21933.0,Bajo
+2024-07,DecoraciÃÂ³n,JarrÃÂ³n decorativo,6361.0,3.0,19083.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7836.0,12.0,94032.0,Alto
+2024-07,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,9735.0,5.0,48675.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,7530.0,4.0,30120.0,Bajo
+2024-07,DecoraciÃÂ³n,Cortinas,11139.0,10.0,111390.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Microondas,4119.0,5.0,20595.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Lavadora,11424.0,9.0,102816.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Microondas,10157.0,8.0,81256.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Secadora,11768.0,12.0,141216.0,Alto
+2024-07,ElectrÃÂ³nica,Laptop,4422.0,1.0,4422.0,Bajo
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,12248.0,7.0,85736.0,Alto
+2024-08,DecoraciÃÂ³n,Espejo decorativo,10652.0,5.0,53260.0,Bajo
+2024-08,DecoraciÃÂ³n,Cortinas,7133.0,6.0,42798.0,Bajo
+2024-08,ElectrÃÂ³nica,Proyector,3299.0,7.0,23093.0,Bajo
+2024-09,DecoraciÃÂ³n,RincÃÂ³n de plantas,5612.0,2.0,11224.0,Bajo
+2024-09,DecoraciÃÂ³n,RincÃÂ³n de plantas,8216.0,10.0,82160.0,Alto
+2024-09,DecoraciÃÂ³n,Cortinas,3863.0,12.0,46356.0,Bajo
+2024-09,DecoraciÃÂ³n,Cuadro decorativo,10893.0,4.0,43572.0,Bajo
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5897.0,12.0,70764.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Plancha de vapor,4261.0,2.0,8522.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Lavadora,7034.0,6.0,42204.0,Bajo
+2024-09,ElectrÃÂ³nica,Proyector,3583.0,5.0,17915.0,Bajo
+2024-09,ElectrÃÂ³nica,Smartphone,11515.0,4.0,46060.0,Bajo
+2024-09,ElectrÃÂ³nica,Laptop,9707.0,1.0,9707.0,Bajo
+2024-09,ElectrÃÂ³nica,Auriculares,10641.0,3.0,31923.0,Bajo
+2024-09,ElectrÃÂ³nica,Proyector,9486.0,7.0,66402.0,Bajo
+2024-10,DecoraciÃÂ³n,JarrÃÂ³n decorativo,12150.0,11.0,133650.0,Alto
+2024-10,DecoraciÃÂ³n,Adorno de pared,8914.0,5.0,44570.0,Bajo
+2024-10,ElectrÃÂ³nica,Proyector,11550.0,6.0,69300.0,Bajo
+2024-11,DecoraciÃÂ³n,Cortinas,5990.0,9.0,53910.0,Bajo
+2024-11,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,9551.0,7.0,66857.0,Bajo
+2024-11,DecoraciÃÂ³n,Candelabro,11328.0,2.0,22656.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,8464.0,11.0,93104.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Secadora,5203.0,5.0,26015.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Aspiradora,9469.0,4.0,37876.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Batidora,8364.0,1.0,8364.0,Bajo
+2024-11,ElectrÃÂ³nica,Smartphone,11595.0,4.0,46380.0,Bajo
+2024-11,ElectrÃÂ³nica,Smartphone,7456.0,1.0,7456.0,Bajo
+2024-11,ElectrÃÂ³nica,SmartWatch,4771.0,3.0,14313.0,Bajo
+2024-12,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8692.0,11.0,95612.0,Alto
+2024-12,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,4857.0,4.0,19428.0,Bajo
+2024-12,DecoraciÃÂ³n,Espejo decorativo,2765.0,11.0,30415.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Secadora,6981.0,6.0,41886.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3355.0,11.0,36905.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Lavadora,3453.0,10.0,34530.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Secadora,6911.0,6.0,41466.0,Bajo
+2024-01,DecoraciÃÂ³n,Candelabro,11430.0,2.0,22860.0,Bajo
+2024-01,DecoraciÃÂ³n,Espejo decorativo,11545.0,4.0,46180.0,Bajo
+2024-01,DecoraciÃÂ³n,Espejo decorativo,9406.0,6.0,56436.0,Bajo
+2024-01,DecoraciÃÂ³n,Adorno de pared,4928.0,9.0,44352.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Lavadora,10909.0,3.0,32727.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,11697.0,2.0,23394.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Aspiradora,10399.0,8.0,83192.0,Alto
+2024-01,ElectrÃÂ³nica,Consola de videojuegos,8873.0,12.0,106476.0,Alto
+2024-01,ElectrÃÂ³nica,Proyector,5908.0,3.0,17724.0,Bajo
+2024-01,ElectrÃÂ³nica,Televisor,8317.0,8.0,66536.0,Bajo
+2024-01,ElectrÃÂ³nica,Televisor,10691.0,2.0,21382.0,Bajo
+2024-01,ElectrÃÂ³nica,Parlantes Bluetooth,4701.0,11.0,51711.0,Bajo
+2024-02,DecoraciÃÂ³n,Alfombra,11582.0,1.0,11582.0,Bajo
+2024-02,DecoraciÃÂ³n,Cuadro decorativo,7669.0,2.0,15338.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Microondas,6261.0,8.0,50088.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,5434.0,4.0,21736.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Cafetera,6733.0,8.0,53864.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Microondas,6918.0,7.0,48426.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Microondas,7591.0,3.0,22773.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,11631.0,11.0,127941.0,Alto
+2024-02,ElectrÃÂ³nica,Consola de videojuegos,7976.0,12.0,95712.0,Alto
+2024-02,ElectrÃÂ³nica,CÃÂ¡mara digital,9688.0,6.0,58128.0,Bajo
+2024-03,DecoraciÃÂ³n,JarrÃÂ³n decorativo,5250.0,3.0,15750.0,Bajo
+2024-03,DecoraciÃÂ³n,Alfombra,2953.0,12.0,35436.0,Bajo
+2024-03,DecoraciÃÂ³n,RincÃÂ³n de plantas,8339.0,6.0,50034.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Cafetera,2698.0,10.0,26980.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,4388.0,9.0,39492.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,8826.0,8.0,70608.0,Bajo
+2024-03,ElectrÃÂ³nica,Smartphone,7070.0,7.0,49490.0,Bajo
+2024-03,ElectrÃÂ³nica,Tablet,7999.0,10.0,79990.0,Alto
+2024-03,ElectrÃÂ³nica,Smartphone,9019.0,1.0,9019.0,Bajo
+2024-03,ElectrÃÂ³nica,CÃÂ¡mara digital,6078.0,8.0,48624.0,Bajo
+2024-04,DecoraciÃÂ³n,JarrÃÂ³n decorativo,5314.0,5.0,26570.0,Bajo
+2024-04,DecoraciÃÂ³n,Cuadro decorativo,12483.0,6.0,74898.0,Alto
+2024-04,DecoraciÃÂ³n,RincÃÂ³n de plantas,11576.0,3.0,34728.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Microondas,6716.0,1.0,6716.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Batidora,7365.0,10.0,73650.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Cafetera,11147.0,8.0,89176.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8882.0,2.0,17764.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Lavadora,11448.0,6.0,68688.0,Bajo
+2024-04,ElectrÃÂ³nica,Tablet,6499.0,3.0,19497.0,Bajo
+2024-04,ElectrÃÂ³nica,Laptop,4258.0,9.0,38322.0,Bajo
+2024-04,ElectrÃÂ³nica,SmartWatch,2611.0,7.0,18277.0,Bajo
+2024-04,ElectrÃÂ³nica,Consola de videojuegos,5174.0,7.0,36218.0,Bajo
+2024-04,ElectrÃÂ³nica,CÃÂ¡mara digital,7028.0,6.0,42168.0,Bajo
+2024-04,ElectrÃÂ³nica,Consola de videojuegos,12162.0,2.0,24324.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Aspiradora,6914.0,8.0,55312.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Lavadora,6806.0,10.0,68060.0,Bajo
+2024-05,ElectrÃÂ³nica,Televisor,4497.0,4.0,17988.0,Bajo
+2024-05,ElectrÃÂ³nica,Proyector,6911.0,11.0,76021.0,Alto
+2024-05,ElectrÃÂ³nica,Proyector,5629.0,11.0,61919.0,Bajo
+2024-05,ElectrÃÂ³nica,Consola de videojuegos,8370.0,1.0,8370.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Microondas,11810.0,10.0,118100.0,Alto
+2024-06,ElectrodomÃÂ©sticos,Batidora,6056.0,1.0,6056.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Plancha de vapor,2966.0,12.0,35592.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Microondas,12094.0,2.0,24188.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3407.0,8.0,27256.0,Bajo
+2024-06,ElectrÃÂ³nica,Proyector,7869.0,2.0,15738.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,3280.0,12.0,39360.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,11497.0,8.0,91976.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Aspiradora,3194.0,7.0,22358.0,Bajo
+2024-07,ElectrÃÂ³nica,Proyector,7826.0,9.0,70434.0,Bajo
+2024-07,ElectrÃÂ³nica,Televisor,11566.0,12.0,138792.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Secadora,11335.0,8.0,90680.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Plancha de vapor,10376.0,7.0,72632.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Lavadora,3816.0,6.0,22896.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Microondas,5819.0,6.0,34914.0,Bajo
+2024-08,ElectrÃÂ³nica,Auriculares,11707.0,12.0,140484.0,Alto
+2024-08,ElectrÃÂ³nica,Proyector,4128.0,12.0,49536.0,Bajo
+2024-09,DecoraciÃÂ³n,Cortinas,3136.0,7.0,21952.0,Bajo
+2024-09,DecoraciÃÂ³n,Candelabro,3673.0,11.0,40403.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Microondas,11925.0,11.0,131175.0,Alto
+2024-09,ElectrodomÃÂ©sticos,Aspiradora,8390.0,1.0,8390.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Batidora,4242.0,4.0,16968.0,Bajo
+2024-09,ElectrÃÂ³nica,SmartWatch,5658.0,12.0,67896.0,Bajo
+2024-09,ElectrÃÂ³nica,Televisor,7999.0,4.0,31996.0,Bajo
+2024-10,DecoraciÃÂ³n,Alfombra,3883.0,10.0,38830.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Batidora,7183.0,12.0,86196.0,Alto
+2024-10,ElectrÃÂ³nica,Laptop,11186.0,2.0,22372.0,Bajo
+2024-10,ElectrÃÂ³nica,SmartWatch,10798.0,8.0,86384.0,Alto
+2024-10,ElectrÃÂ³nica,Laptop,5527.0,5.0,27635.0,Bajo
+2024-11,DecoraciÃÂ³n,Candelabro,5241.0,1.0,5241.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Batidora,7671.0,7.0,53697.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Lavadora,5081.0,2.0,10162.0,Bajo
+2024-11,ElectrÃÂ³nica,Smartphone,3139.0,4.0,12556.0,Bajo
+2024-11,ElectrÃÂ³nica,Televisor,10928.0,8.0,87424.0,Alto
+2024-11,ElectrÃÂ³nica,Auriculares,12036.0,2.0,24072.0,Bajo
+2024-12,DecoraciÃÂ³n,Cortinas,11378.0,1.0,11378.0,Bajo
+2024-12,DecoraciÃÂ³n,RincÃÂ³n de plantas,10527.0,6.0,63162.0,Bajo
+2024-12,DecoraciÃÂ³n,Cortinas,5772.0,7.0,40404.0,Bajo
+2024-12,DecoraciÃÂ³n,Adorno de pared,4159.0,1.0,4159.0,Bajo
+2024-12,DecoraciÃÂ³n,RincÃÂ³n de plantas,8379.0,4.0,33516.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Cafetera,6674.0,11.0,73414.0,Alto
+2024-12,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,6025.0,3.0,18075.0,Bajo
+2024-12,ElectrÃÂ³nica,Proyector,11908.0,3.0,35724.0,Bajo
+2024-12,ElectrÃÂ³nica,CÃÂ¡mara digital,5552.0,2.0,11104.0,Bajo
+2024-01,DecoraciÃÂ³n,Adorno de pared,2981.0,9.0,26829.0,Bajo
+2024-01,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,3094.0,5.0,15470.0,Bajo
+2024-01,DecoraciÃÂ³n,Cuadro decorativo,8451.0,9.0,76059.0,Alto
+2024-01,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8278.0,4.0,33112.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Cafetera,3845.0,9.0,34605.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Aspiradora,5865.0,2.0,11730.0,Bajo
+2024-01,ElectrÃÂ³nica,Auriculares,8791.0,5.0,43955.0,Bajo
+2024-01,ElectrÃÂ³nica,Smartphone,10395.0,1.0,10395.0,Bajo
+2024-01,ElectrÃÂ³nica,Tablet,6917.0,9.0,62253.0,Bajo
+2024-02,DecoraciÃÂ³n,RincÃÂ³n de plantas,9257.0,5.0,46285.0,Bajo
+2024-02,ElectrÃÂ³nica,Tablet,3812.0,5.0,19060.0,Bajo
+2024-02,ElectrÃÂ³nica,Proyector,7872.0,6.0,47232.0,Bajo
+2024-02,ElectrÃÂ³nica,Consola de videojuegos,7988.0,1.0,7988.0,Bajo
+2024-02,ElectrÃÂ³nica,Tablet,4746.0,12.0,56952.0,Bajo
+2024-02,ElectrÃÂ³nica,Parlantes Bluetooth,7038.0,8.0,56304.0,Bajo
+2024-02,ElectrÃÂ³nica,Proyector,12182.0,8.0,97456.0,Alto
+2024-03,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,8898.0,1.0,8898.0,Bajo
+2024-03,DecoraciÃÂ³n,JarrÃÂ³n decorativo,7273.0,2.0,14546.0,Bajo
+2024-03,ElectrÃÂ³nica,Proyector,8040.0,7.0,56280.0,Bajo
+2024-03,ElectrÃÂ³nica,Auriculares,12251.0,11.0,134761.0,Alto
+2024-03,ElectrÃÂ³nica,Laptop,5848.0,6.0,35088.0,Bajo
+2024-03,ElectrÃÂ³nica,Proyector,2699.0,2.0,5398.0,Bajo
+2024-04,ElectrÃÂ³nica,Consola de videojuegos,7813.0,7.0,54691.0,Bajo
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,10066.0,6.0,60396.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Batidora,3405.0,8.0,27240.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3934.0,3.0,11802.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Lavadora,10355.0,5.0,51775.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,11019.0,7.0,77133.0,Alto
+2024-05,ElectrÃÂ³nica,Proyector,6530.0,5.0,32650.0,Bajo
+2024-05,ElectrÃÂ³nica,Tablet,2832.0,9.0,25488.0,Bajo
+2024-05,ElectrÃÂ³nica,Laptop,12404.0,3.0,37212.0,Bajo
+2024-06,DecoraciÃÂ³n,Cortinas,5690.0,6.0,34140.0,Bajo
+2024-06,DecoraciÃÂ³n,Cortinas,12497.0,6.0,74982.0,Alto
+2024-06,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,12079.0,12.0,144948.0,Alto
+2024-06,DecoraciÃÂ³n,Alfombra,3454.0,10.0,34540.0,Bajo
+2024-06,DecoraciÃÂ³n,Alfombra,6018.0,7.0,42126.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Lavadora,2712.0,7.0,18984.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Plancha de vapor,6045.0,6.0,36270.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Lavadora,3030.0,9.0,27270.0,Bajo
+2024-06,ElectrÃÂ³nica,Auriculares,10922.0,8.0,87376.0,Alto
+2024-06,ElectrÃÂ³nica,Smartphone,11635.0,6.0,69810.0,Bajo
+2024-06,ElectrÃÂ³nica,Laptop,7905.0,4.0,31620.0,Bajo
+2024-06,ElectrÃÂ³nica,Tablet,8089.0,8.0,64712.0,Bajo
+2024-06,ElectrÃÂ³nica,Televisor,3205.0,6.0,19230.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5199.0,6.0,31194.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7062.0,3.0,21186.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,5470.0,6.0,32820.0,Bajo
+2024-07,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,5280.0,4.0,21120.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,4785.0,9.0,43065.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Microondas,9139.0,6.0,54834.0,Bajo
+2024-07,ElectrÃÂ³nica,Laptop,2873.0,3.0,8619.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Aspiradora,6985.0,3.0,20955.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Batidora,11091.0,8.0,88728.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Plancha de vapor,11821.0,7.0,82747.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Secadora,9049.0,5.0,45245.0,Bajo
+2024-08,ElectrÃÂ³nica,Parlantes Bluetooth,5603.0,12.0,67236.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,5563.0,3.0,16689.0,Bajo
+2024-08,ElectrÃÂ³nica,Auriculares,7024.0,6.0,42144.0,Bajo
+2024-08,ElectrÃÂ³nica,Consola de videojuegos,4359.0,7.0,30513.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,11921.0,11.0,131131.0,Alto
+2024-09,DecoraciÃÂ³n,RincÃÂ³n de plantas,10762.0,6.0,64572.0,Bajo
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,3592.0,10.0,35920.0,Bajo
+2024-09,DecoraciÃÂ³n,Cuadro decorativo,6646.0,9.0,59814.0,Bajo
+2024-09,DecoraciÃÂ³n,RincÃÂ³n de plantas,11875.0,1.0,11875.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Microondas,11278.0,10.0,112780.0,Alto
+2024-09,ElectrodomÃÂ©sticos,Aspiradora,7988.0,3.0,23964.0,Bajo
+2024-09,ElectrÃÂ³nica,Laptop,11384.0,2.0,22768.0,Bajo
+2024-09,ElectrÃÂ³nica,Tablet,7083.0,6.0,42498.0,Bajo
+2024-10,DecoraciÃÂ³n,JarrÃÂ³n decorativo,12477.0,1.0,12477.0,Bajo
+2024-10,DecoraciÃÂ³n,RincÃÂ³n de plantas,4864.0,11.0,53504.0,Bajo
+2024-10,DecoraciÃÂ³n,JarrÃÂ³n decorativo,6015.0,3.0,18045.0,Bajo
+2024-10,DecoraciÃÂ³n,RincÃÂ³n de plantas,5102.0,6.0,30612.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,5675.0,2.0,11350.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,5793.0,6.0,34758.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Microondas,12144.0,4.0,48576.0,Bajo
+2024-11,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,6637.0,8.0,53096.0,Bajo
+2024-11,DecoraciÃÂ³n,Cuadro decorativo,3588.0,5.0,17940.0,Bajo
+2024-11,DecoraciÃÂ³n,JarrÃÂ³n decorativo,6708.0,12.0,80496.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Aspiradora,7610.0,11.0,83710.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Microondas,3240.0,12.0,38880.0,Bajo
+2024-11,ElectrÃÂ³nica,CÃÂ¡mara digital,10020.0,12.0,120240.0,Alto
+2024-11,ElectrÃÂ³nica,Laptop,10485.0,3.0,31455.0,Bajo
+2024-12,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,7334.0,9.0,66006.0,Bajo
+2024-12,DecoraciÃÂ³n,JarrÃÂ³n decorativo,7628.0,11.0,83908.0,Alto
+2024-12,DecoraciÃÂ³n,Cortinas,8685.0,2.0,17370.0,Bajo
+2024-12,DecoraciÃÂ³n,Alfombra,9717.0,5.0,48585.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Secadora,2696.0,2.0,5392.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Plancha de vapor,7428.0,1.0,7428.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Microondas,7803.0,8.0,62424.0,Bajo
+2024-12,ElectrÃÂ³nica,Proyector,8553.0,10.0,85530.0,Alto
+2024-12,ElectrÃÂ³nica,Parlantes Bluetooth,10848.0,1.0,10848.0,Bajo
+2024-12,ElectrÃÂ³nica,CÃÂ¡mara digital,4995.0,5.0,24975.0,Bajo
+2024-12,ElectrÃÂ³nica,Consola de videojuegos,7308.0,7.0,51156.0,Bajo
+2024-12,ElectrÃÂ³nica,SmartWatch,3518.0,12.0,42216.0,Bajo
+2024-01,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,4844.0,6.0,29064.0,Bajo
+2024-01,DecoraciÃÂ³n,Adorno de pared,3018.0,8.0,24144.0,Bajo
+2024-01,DecoraciÃÂ³n,Cuadro decorativo,6157.0,3.0,18471.0,Bajo
+2024-01,DecoraciÃÂ³n,RincÃÂ³n de plantas,6020.0,3.0,18060.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Heladera,12159.0,4.0,48636.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Microondas,10825.0,12.0,129900.0,Alto
+2024-01,ElectrÃÂ³nica,Parlantes Bluetooth,6101.0,1.0,6101.0,Bajo
+2024-01,ElectrÃÂ³nica,Auriculares,5621.0,2.0,11242.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Lavadora,5132.0,4.0,20528.0,Bajo
+2024-02,ElectrÃÂ³nica,Televisor,4802.0,7.0,33614.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,9945.0,5.0,49725.0,Bajo
+2024-02,ElectrÃÂ³nica,Televisor,7148.0,4.0,28592.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,12353.0,10.0,123530.0,Alto
+2024-02,ElectrÃÂ³nica,Laptop,3199.0,9.0,28791.0,Bajo
+2024-02,ElectrÃÂ³nica,Auriculares,3381.0,11.0,37191.0,Bajo
+2024-03,DecoraciÃÂ³n,RincÃÂ³n de plantas,2644.0,4.0,10576.0,Bajo
+2024-03,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,11304.0,1.0,11304.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Lavadora,6529.0,5.0,32645.0,Bajo
+2024-03,ElectrÃÂ³nica,Smartphone,12340.0,12.0,148080.0,Alto
+2024-03,ElectrÃÂ³nica,Auriculares,10761.0,1.0,10761.0,Bajo
+2024-04,DecoraciÃÂ³n,Cortinas,2717.0,8.0,21736.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Cafetera,9567.0,12.0,114804.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Batidora,8972.0,10.0,89720.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,7480.0,5.0,37400.0,Bajo
+2024-04,ElectrÃÂ³nica,Laptop,12100.0,10.0,121000.0,Alto
+2024-04,ElectrÃÂ³nica,SmartWatch,2914.0,12.0,34968.0,Bajo
+2024-05,DecoraciÃÂ³n,Espejo decorativo,11986.0,4.0,47944.0,Bajo
+2024-05,DecoraciÃÂ³n,RincÃÂ³n de plantas,6787.0,11.0,74657.0,Alto
+2024-05,DecoraciÃÂ³n,JarrÃÂ³n decorativo,6439.0,11.0,70829.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Plancha de vapor,11752.0,2.0,23504.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Batidora,12212.0,4.0,48848.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Secadora,6351.0,11.0,69861.0,Bajo
+2024-05,ElectrÃÂ³nica,Parlantes Bluetooth,4899.0,10.0,48990.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Plancha de vapor,3101.0,7.0,21707.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Lavadora,8048.0,4.0,32192.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,3428.0,2.0,6856.0,Bajo
+2024-06,ElectrÃÂ³nica,CÃÂ¡mara digital,10902.0,2.0,21804.0,Bajo
+2024-06,ElectrÃÂ³nica,Smartphone,11134.0,5.0,55670.0,Bajo
+2024-07,DecoraciÃÂ³n,RincÃÂ³n de plantas,11714.0,8.0,93712.0,Alto
+2024-07,DecoraciÃÂ³n,Espejo decorativo,7004.0,3.0,21012.0,Bajo
+2024-07,DecoraciÃÂ³n,JarrÃÂ³n decorativo,3887.0,10.0,38870.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Heladera,3135.0,11.0,34485.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,7145.0,12.0,85740.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Cafetera,4025.0,3.0,12075.0,Bajo
+2024-07,ElectrÃÂ³nica,SmartWatch,4124.0,4.0,16496.0,Bajo
+2024-07,ElectrÃÂ³nica,Smartphone,11766.0,5.0,58830.0,Bajo
+2024-07,ElectrÃÂ³nica,Auriculares,9953.0,1.0,9953.0,Bajo
+2024-07,ElectrÃÂ³nica,SmartWatch,6098.0,5.0,30490.0,Bajo
+2024-07,ElectrÃÂ³nica,Parlantes Bluetooth,8632.0,10.0,86320.0,Alto
+2024-08,DecoraciÃÂ³n,Cortinas,5887.0,11.0,64757.0,Bajo
+2024-08,DecoraciÃÂ³n,Adorno de pared,5521.0,7.0,38647.0,Bajo
+2024-08,DecoraciÃÂ³n,Cortinas,7432.0,11.0,81752.0,Alto
+2024-08,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7963.0,12.0,95556.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Aspiradora,8788.0,2.0,17576.0,Bajo
+2024-08,ElectrÃÂ³nica,Smartphone,6437.0,1.0,6437.0,Bajo
+2024-08,ElectrÃÂ³nica,SmartWatch,11397.0,7.0,79779.0,Alto
+2024-08,ElectrÃÂ³nica,Tablet,4293.0,5.0,21465.0,Bajo
+2024-08,ElectrÃÂ³nica,SmartWatch,6516.0,3.0,19548.0,Bajo
+2024-09,DecoraciÃÂ³n,JarrÃÂ³n decorativo,10316.0,11.0,113476.0,Alto
+2024-09,ElectrÃÂ³nica,Smartphone,3352.0,8.0,26816.0,Bajo
+2024-09,ElectrÃÂ³nica,Laptop,10601.0,5.0,53005.0,Bajo
+2024-10,DecoraciÃÂ³n,Adorno de pared,3258.0,9.0,29322.0,Bajo
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,2963.0,4.0,11852.0,Bajo
+2024-10,DecoraciÃÂ³n,JarrÃÂ³n decorativo,7349.0,12.0,88188.0,Alto
+2024-10,DecoraciÃÂ³n,RincÃÂ³n de plantas,4262.0,4.0,17048.0,Bajo
+2024-10,DecoraciÃÂ³n,RincÃÂ³n de plantas,6118.0,8.0,48944.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Microondas,12117.0,3.0,36351.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,11279.0,11.0,124069.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Microondas,11022.0,12.0,132264.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Batidora,9429.0,2.0,18858.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Aspiradora,9589.0,1.0,9589.0,Bajo
+2024-10,ElectrÃÂ³nica,Proyector,7393.0,5.0,36965.0,Bajo
+2024-10,ElectrÃÂ³nica,Parlantes Bluetooth,3022.0,6.0,18132.0,Bajo
+2024-10,ElectrÃÂ³nica,Televisor,5235.0,2.0,10470.0,Bajo
+2024-10,ElectrÃÂ³nica,Proyector,11584.0,10.0,115840.0,Alto
+2024-11,DecoraciÃÂ³n,Cuadro decorativo,11519.0,3.0,34557.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,10488.0,10.0,104880.0,Alto
+2024-11,DecoraciÃÂ³n,JarrÃÂ³n decorativo,7731.0,8.0,61848.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,3269.0,5.0,16345.0,Bajo
+2024-11,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,6585.0,5.0,32925.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Microondas,7945.0,3.0,23835.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,10195.0,4.0,40780.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Plancha de vapor,9196.0,1.0,9196.0,Bajo
+2024-11,ElectrÃÂ³nica,SmartWatch,6866.0,5.0,34330.0,Bajo
+2024-11,ElectrÃÂ³nica,Televisor,7389.0,5.0,36945.0,Bajo
+2024-12,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,11632.0,9.0,104688.0,Alto
+2024-12,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,9469.0,11.0,104159.0,Alto
+2024-12,DecoraciÃÂ³n,Cuadro decorativo,7890.0,2.0,15780.0,Bajo
+2024-12,DecoraciÃÂ³n,Alfombra,11136.0,11.0,122496.0,Alto
+2024-12,ElectrodomÃÂ©sticos,Plancha de vapor,10224.0,9.0,92016.0,Alto
+2024-12,ElectrÃÂ³nica,CÃÂ¡mara digital,10868.0,1.0,10868.0,Bajo
+2024-12,ElectrÃÂ³nica,Televisor,7227.0,7.0,50589.0,Bajo
+2024-12,ElectrÃÂ³nica,Televisor,8227.0,2.0,16454.0,Bajo
+2024-12,ElectrÃÂ³nica,Proyector,5224.0,10.0,52240.0,Bajo
+2024-12,ElectrÃÂ³nica,Consola de videojuegos,11181.0,9.0,100629.0,Alto
+2024-12,ElectrÃÂ³nica,Parlantes Bluetooth,11762.0,9.0,105858.0,Alto
+2024-01,DecoraciÃÂ³n,JarrÃÂ³n decorativo,6412.0,12.0,76944.0,Alto
+2024-01,DecoraciÃÂ³n,JarrÃÂ³n decorativo,4309.0,7.0,30163.0,Bajo
+2024-01,DecoraciÃÂ³n,Cuadro decorativo,6167.0,10.0,61670.0,Bajo
+2024-01,ElectrÃÂ³nica,CÃÂ¡mara digital,3079.0,8.0,24632.0,Bajo
+2024-01,ElectrÃÂ³nica,Laptop,11388.0,1.0,11388.0,Bajo
+2024-02,DecoraciÃÂ³n,Alfombra,7010.0,4.0,28040.0,Bajo
+2024-02,DecoraciÃÂ³n,Cuadro decorativo,11997.0,3.0,35991.0,Bajo
+2024-02,DecoraciÃÂ³n,Alfombra,12049.0,6.0,72294.0,Alto
+2024-02,DecoraciÃÂ³n,Espejo decorativo,6435.0,8.0,51480.0,Bajo
+2024-02,DecoraciÃÂ³n,RincÃÂ³n de plantas,6782.0,11.0,74602.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Microondas,10074.0,11.0,110814.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Lavadora,2944.0,10.0,29440.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Batidora,5948.0,4.0,23792.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Plancha de vapor,11900.0,1.0,11900.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Batidora,6432.0,8.0,51456.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Plancha de vapor,10054.0,6.0,60324.0,Bajo
+2024-04,DecoraciÃÂ³n,Adorno de pared,2789.0,8.0,22312.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Heladera,4372.0,1.0,4372.0,Bajo
+2024-05,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,11253.0,11.0,123783.0,Alto
+2024-05,DecoraciÃÂ³n,Cuadro decorativo,8867.0,11.0,97537.0,Alto
+2024-05,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,3398.0,9.0,30582.0,Bajo
+2024-05,DecoraciÃÂ³n,Cuadro decorativo,7367.0,7.0,51569.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,7174.0,2.0,14348.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Microondas,9463.0,9.0,85167.0,Alto
+2024-05,ElectrodomÃÂ©sticos,Secadora,8531.0,5.0,42655.0,Bajo
+2024-05,ElectrodomÃÂ©sticos,Plancha de vapor,7067.0,11.0,77737.0,Alto
+2024-06,DecoraciÃÂ³n,Cuadro decorativo,11444.0,10.0,114440.0,Alto
+2024-06,DecoraciÃÂ³n,JarrÃÂ³n decorativo,4906.0,11.0,53966.0,Bajo
+2024-06,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,9657.0,8.0,77256.0,Alto
+2024-06,DecoraciÃÂ³n,JarrÃÂ³n decorativo,4562.0,4.0,18248.0,Bajo
+2024-06,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5643.0,2.0,11286.0,Bajo
+2024-06,DecoraciÃÂ³n,RincÃÂ³n de plantas,2900.0,10.0,29000.0,Bajo
+2024-06,DecoraciÃÂ³n,Alfombra,3634.0,5.0,18170.0,Bajo
+2024-06,ElectrÃÂ³nica,Televisor,10845.0,8.0,86760.0,Alto
+2024-07,DecoraciÃÂ³n,Espejo decorativo,10307.0,6.0,61842.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,4911.0,10.0,49110.0,Bajo
+2024-07,DecoraciÃÂ³n,Alfombra,3470.0,1.0,3470.0,Bajo
+2024-07,DecoraciÃÂ³n,Cuadro decorativo,4836.0,8.0,38688.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Microondas,7363.0,12.0,88356.0,Alto
+2024-07,ElectrodomÃÂ©sticos,Plancha de vapor,8084.0,5.0,40420.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Lavadora,5804.0,6.0,34824.0,Bajo
+2024-07,ElectrÃÂ³nica,Smartphone,11926.0,2.0,23852.0,Bajo
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,7868.0,11.0,86548.0,Alto
+2024-07,ElectrÃÂ³nica,Auriculares,10876.0,8.0,87008.0,Alto
+2024-07,ElectrÃÂ³nica,CÃÂ¡mara digital,4990.0,1.0,4990.0,Bajo
+2024-07,ElectrÃÂ³nica,Parlantes Bluetooth,6549.0,11.0,72039.0,Alto
+2024-07,ElectrÃÂ³nica,Proyector,10821.0,12.0,129852.0,Alto
+2024-08,DecoraciÃÂ³n,Cortinas,4609.0,1.0,4609.0,Bajo
+2024-08,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,8048.0,10.0,80480.0,Alto
+2024-08,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5855.0,9.0,52695.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Cafetera,4595.0,7.0,32165.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Cafetera,11170.0,10.0,111700.0,Alto
+2024-08,ElectrÃÂ³nica,Parlantes Bluetooth,11566.0,3.0,34698.0,Bajo
+2024-08,ElectrÃÂ³nica,Parlantes Bluetooth,6145.0,8.0,49160.0,Bajo
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5587.0,3.0,16761.0,Bajo
+2024-09,DecoraciÃÂ³n,Cortinas,12236.0,8.0,97888.0,Alto
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,6688.0,4.0,26752.0,Bajo
+2024-09,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,9587.0,7.0,67109.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,3602.0,3.0,10806.0,Bajo
+2024-09,ElectrÃÂ³nica,CÃÂ¡mara digital,2772.0,8.0,22176.0,Bajo
+2024-09,ElectrÃÂ³nica,Proyector,8290.0,8.0,66320.0,Bajo
+2024-09,ElectrÃÂ³nica,Consola de videojuegos,8481.0,4.0,33924.0,Bajo
+2024-09,ElectrÃÂ³nica,SmartWatch,7863.0,4.0,31452.0,Bajo
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10559.0,9.0,95031.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,4962.0,6.0,29772.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Plancha de vapor,8334.0,10.0,83340.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Microondas,6456.0,12.0,77472.0,Alto
+2024-10,ElectrodomÃÂ©sticos,Batidora,9656.0,3.0,28968.0,Bajo
+2024-10,ElectrÃÂ³nica,Consola de videojuegos,5113.0,2.0,10226.0,Bajo
+2024-10,ElectrÃÂ³nica,CÃÂ¡mara digital,3544.0,3.0,10632.0,Bajo
+2024-10,ElectrÃÂ³nica,Smartphone,9152.0,7.0,64064.0,Bajo
+2024-11,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,4748.0,2.0,9496.0,Bajo
+2024-11,DecoraciÃÂ³n,Cuadro decorativo,9384.0,10.0,93840.0,Alto
+2024-11,DecoraciÃÂ³n,Alfombra,4363.0,1.0,4363.0,Bajo
+2024-11,DecoraciÃÂ³n,RincÃÂ³n de plantas,8127.0,11.0,89397.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Plancha de vapor,3493.0,9.0,31437.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,8330.0,10.0,83300.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Batidora,5525.0,10.0,55250.0,Bajo
+2024-11,ElectrÃÂ³nica,Consola de videojuegos,7340.0,5.0,36700.0,Bajo
+2024-11,ElectrÃÂ³nica,Smartphone,4767.0,6.0,28602.0,Bajo
+2024-11,ElectrÃÂ³nica,SmartWatch,6394.0,7.0,44758.0,Bajo
+2024-11,ElectrÃÂ³nica,Auriculares,8991.0,9.0,80919.0,Alto
+2024-12,DecoraciÃÂ³n,Adorno de pared,6500.0,4.0,26000.0,Bajo
+2024-12,DecoraciÃÂ³n,JarrÃÂ³n decorativo,5963.0,10.0,59630.0,Bajo
+2024-12,DecoraciÃÂ³n,JarrÃÂ³n decorativo,2963.0,5.0,14815.0,Bajo
+2024-12,DecoraciÃÂ³n,Adorno de pared,10574.0,10.0,105740.0,Alto
+2024-12,ElectrodomÃÂ©sticos,Cafetera,5591.0,3.0,16773.0,Bajo
+2024-01,DecoraciÃÂ³n,Espejo decorativo,4097.0,9.0,36873.0,Bajo
+2024-01,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,6309.0,1.0,6309.0,Bajo
+2024-01,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,5849.0,3.0,17547.0,Bajo
+2024-01,DecoraciÃÂ³n,Cortinas,11096.0,2.0,22192.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Plancha de vapor,12424.0,2.0,24848.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Plancha de vapor,7978.0,9.0,71802.0,Alto
+2024-01,ElectrodomÃÂ©sticos,Cafetera,10375.0,5.0,51875.0,Bajo
+2024-01,ElectrodomÃÂ©sticos,Batidora,3017.0,9.0,27153.0,Bajo
+2024-01,ElectrÃÂ³nica,Laptop,6956.0,7.0,48692.0,Bajo
+2024-02,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10456.0,12.0,125472.0,Alto
+2024-02,DecoraciÃÂ³n,JarrÃÂ³n decorativo,10004.0,3.0,30012.0,Bajo
+2024-02,DecoraciÃÂ³n,Adorno de pared,11044.0,7.0,77308.0,Alto
+2024-02,DecoraciÃÂ³n,Espejo decorativo,8172.0,9.0,73548.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,3584.0,11.0,39424.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Microondas,9707.0,7.0,67949.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Lavadora,10243.0,7.0,71701.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,9520.0,8.0,76160.0,Alto
+2024-02,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,7453.0,9.0,67077.0,Bajo
+2024-02,ElectrodomÃÂ©sticos,Plancha de vapor,4057.0,5.0,20285.0,Bajo
+2024-02,ElectrÃÂ³nica,Laptop,11229.0,4.0,44916.0,Bajo
+2024-02,ElectrÃÂ³nica,Consola de videojuegos,9109.0,7.0,63763.0,Bajo
+2024-02,ElectrÃÂ³nica,SmartWatch,11511.0,3.0,34533.0,Bajo
+2024-03,DecoraciÃÂ³n,Cuadro decorativo,10115.0,6.0,60690.0,Bajo
+2024-03,DecoraciÃÂ³n,Cuadro decorativo,2776.0,4.0,11104.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Batidora,10394.0,5.0,51970.0,Bajo
+2024-03,ElectrodomÃÂ©sticos,Lavadora,8362.0,5.0,41810.0,Bajo
+2024-03,ElectrÃÂ³nica,Televisor,6696.0,10.0,66960.0,Bajo
+2024-03,ElectrÃÂ³nica,Laptop,9166.0,10.0,91660.0,Alto
+2024-04,DecoraciÃÂ³n,Alfombra,9775.0,9.0,87975.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Plancha de vapor,12318.0,10.0,123180.0,Alto
+2024-04,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,11318.0,5.0,56590.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Aspiradora,10689.0,5.0,53445.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Secadora,4447.0,6.0,26682.0,Bajo
+2024-04,ElectrodomÃÂ©sticos,Secadora,4259.0,7.0,29813.0,Bajo
+2024-04,ElectrÃÂ³nica,CÃÂ¡mara digital,7754.0,6.0,46524.0,Bajo
+2024-04,ElectrÃÂ³nica,CÃÂ¡mara digital,11361.0,9.0,102249.0,Alto
+2024-05,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,10082.0,8.0,80656.0,Alto
+2024-05,DecoraciÃÂ³n,Alfombra,10847.0,2.0,21694.0,Bajo
+2024-05,DecoraciÃÂ³n,Alfombra,8260.0,11.0,90860.0,Alto
+2024-05,ElectrodomÃÂ©sticos,Batidora,10043.0,8.0,80344.0,Alto
+2024-05,ElectrÃÂ³nica,Consola de videojuegos,4515.0,9.0,40635.0,Bajo
+2024-05,ElectrÃÂ³nica,Laptop,10549.0,7.0,73843.0,Alto
+2024-05,ElectrÃÂ³nica,Televisor,3935.0,7.0,27545.0,Bajo
+2024-05,ElectrÃÂ³nica,Proyector,6273.0,9.0,56457.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Secadora,5066.0,9.0,45594.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Aspiradora,5697.0,1.0,5697.0,Bajo
+2024-06,ElectrodomÃÂ©sticos,Lavadora,3634.0,3.0,10902.0,Bajo
+2024-06,ElectrÃÂ³nica,Televisor,5434.0,11.0,59774.0,Bajo
+2024-06,ElectrÃÂ³nica,Proyector,3867.0,11.0,42537.0,Bajo
+2024-07,DecoraciÃÂ³n,Espejo decorativo,3385.0,11.0,37235.0,Bajo
+2024-07,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7690.0,11.0,84590.0,Alto
+2024-07,DecoraciÃÂ³n,Cortinas,8086.0,6.0,48516.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Secadora,2910.0,6.0,17460.0,Bajo
+2024-07,ElectrodomÃÂ©sticos,Secadora,9670.0,8.0,77360.0,Alto
+2024-07,ElectrÃÂ³nica,Consola de videojuegos,3967.0,11.0,43637.0,Bajo
+2024-08,DecoraciÃÂ³n,Adorno de pared,6870.0,3.0,20610.0,Bajo
+2024-08,DecoraciÃÂ³n,Cuadro decorativo,10402.0,9.0,93618.0,Alto
+2024-08,ElectrodomÃÂ©sticos,Plancha de vapor,5526.0,2.0,11052.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Aspiradora,11428.0,6.0,68568.0,Bajo
+2024-08,ElectrodomÃÂ©sticos,Microondas,3557.0,8.0,28456.0,Bajo
+2024-08,ElectrÃÂ³nica,CÃÂ¡mara digital,2898.0,11.0,31878.0,Bajo
+2024-08,ElectrÃÂ³nica,Proyector,6797.0,10.0,67970.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Microondas,5557.0,1.0,5557.0,Bajo
+2024-09,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,9287.0,10.0,92870.0,Alto
+2024-09,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,2860.0,5.0,14300.0,Bajo
+2024-09,ElectrÃÂ³nica,CÃÂ¡mara digital,5550.0,1.0,5550.0,Bajo
+2024-10,DecoraciÃÂ³n,Elementos de cerÃÂ¡mica,10907.0,12.0,130884.0,Alto
+2024-10,DecoraciÃÂ³n,Alfombra,6672.0,12.0,80064.0,Alto
+2024-10,DecoraciÃÂ³n,Espejo decorativo,5048.0,1.0,5048.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,8100.0,7.0,56700.0,Bajo
+2024-10,ElectrodomÃÂ©sticos,Horno elÃÂ©ctrico,4602.0,9.0,41418.0,Bajo
+2024-10,ElectrÃÂ³nica,Consola de videojuegos,3073.0,6.0,18438.0,Bajo
+2024-10,ElectrÃÂ³nica,CÃÂ¡mara digital,7770.0,9.0,69930.0,Bajo
+2024-10,ElectrÃÂ³nica,SmartWatch,4990.0,11.0,54890.0,Bajo
+2024-11,DecoraciÃÂ³n,Cuadro decorativo,7251.0,11.0,79761.0,Alto
+2024-11,DecoraciÃÂ³n,Cuadro decorativo,3465.0,11.0,38115.0,Bajo
+2024-11,DecoraciÃÂ³n,LÃÂ¡mpara de mesa,7077.0,7.0,49539.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Microondas,8388.0,10.0,83880.0,Alto
+2024-11,ElectrodomÃÂ©sticos,Plancha de vapor,3487.0,4.0,13948.0,Bajo
+2024-11,ElectrodomÃÂ©sticos,Lavadora,11655.0,6.0,69930.0,Bajo
+2024-11,ElectrÃÂ³nica,Auriculares,10070.0,11.0,110770.0,Alto
+2024-11,ElectrÃÂ³nica,CÃÂ¡mara digital,5812.0,7.0,40684.0,Bajo
+2024-11,ElectrÃÂ³nica,SmartWatch,2783.0,1.0,2783.0,Bajo
+2024-12,DecoraciÃÂ³n,RincÃÂ³n de plantas,9621.0,6.0,57726.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Batidora,3633.0,5.0,18165.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Aspiradora,8523.0,10.0,85230.0,Alto
+2024-12,ElectrodomÃÂ©sticos,Freidora elÃÂ©ctrica,8348.0,8.0,66784.0,Bajo
+2024-12,ElectrodomÃÂ©sticos,Batidora,8312.0,2.0,16624.0,Bajo
+2024-12,ElectrÃÂ³nica,Laptop,10885.0,1.0,10885.0,Bajo
+2024-12,ElectrÃÂ³nica,Auriculares,9505.0,5.0,47525.0,Bajo
+2024-12,ElectrÃÂ³nica,Smartphone,4297.0,3.0,12891.0,Bajo
