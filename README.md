@@ -33,31 +33,23 @@ git clone https://github.com/hernanlang/tpi-data-analytics-lang.git
 cd tpi-data-analytics-lang
 pip install -r requirements.txt  # (si armás un entorno virtual)
 jupyter notebook notebooks/PreEntrega_DataAnalytics_HernánLuisLang.ipynb
-
+...
 
 📎 Todos los cálculos y visualizaciones se generan en runtime. Los datasets originales se preservan intactos.
 
-—  
 **Hernán Luis Lang**  
 📧 hernanluislang@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-luis-lang/)
----
 
 ### 📄 `LICENSE` (MIT)
 
 
----
-
 ### 📄 `notebooks/PreEntrega_DataAnalytics_HernánLuisLang.ipynb`  
 *(El notebook que ya tenés, con todas las etapas ejecutadas y documentadas)*
 
----
 
 ### 📄 `reports/dashboard_interactivo.html`  
 Dashboard generado con Plotly, 4 paneles sincronizados, listo para abrir en cualquier navegador.
 
----
 
 Este repositorio refleja el estándar que uso en mis proyectos: **reproducible, documentado, limpio y orientado a impacto de negocio**. Lo mantengo público como parte de mi portafolio profesional.
-
-¿Querés que genere ahora el archivo `requirements.txt` o el script de inicialización automática (`setup.py` o `Makefile`)?
