@@ -1,0 +1,16 @@
+.
+├── README.md
+├── LICENSE
+├── data/
+│   └── raw/
+│       ├── ventas.csv
+│       ├── clientes.csv
+│       └── marketing.csv
+├── notebooks/
+│   └── PreEntrega_DataAnalytics_HernánLuisLang.ipynb
+└── reports/
+    ├── dashboard_interactivo.html
+    └── figuras/
+        ├── matplot_mensual.png
+        ├── seaborn_boxplot.png
+        └── matplot_scatter.png
