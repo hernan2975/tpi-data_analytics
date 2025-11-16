@@ -1,0 +1,26 @@
+# Archivos de entorno
+.env
+.venv/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Outputs grandes (excluir si pesan >50 MB)
+# data/processed/large_dataset.csv
+# models/
+
+# Editor backups
+*~
+*.swp
