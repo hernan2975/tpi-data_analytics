@@ -33,13 +33,13 @@ git clone https://github.com/hernanlang/tpi-data-analytics-lang.git
 cd tpi-data-analytics-lang
 pip install -r requirements.txt  # (si armás un entorno virtual)
 jupyter notebook notebooks/PreEntrega_DataAnalytics_HernánLuisLang.ipynb
-...
+```
 
 📎 Todos los cálculos y visualizaciones se generan en runtime. Los datasets originales se preservan intactos.
 
 **Hernán Luis Lang**  
 📧 hernanluislang@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-luis-lang/)
+🔗 [LinkedIn](https://www.linkedin.com/in/hernan-luis-lang/)
 
 ### 📄 `LICENSE` (MIT)
 
